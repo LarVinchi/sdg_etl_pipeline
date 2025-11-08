@@ -17,7 +17,7 @@ def extract_sdg_data(api_url: str, save_path: str) -> dict:
     with open(save_path, "w", encoding="utf-8") as file:
         json.dump(data, file, ensure_ascii=False, indent=4)
     
-    print(f"✅ JSON file saved at {save_path}")
+    print(f"JSON file saved at {save_path}")
     return data
 
 
@@ -57,7 +57,7 @@ def transform_sdg_data(data: dict, country_csv_path: str) -> pd.DataFrame:
     # Drop old country_name_x and rename country_name_y
     cleaned = filtered.drop(columns=['country_name_x']).rename(columns={'country_name_y': 'country'})
     
-    print("✅ Data transformation complete")
+    print("Data transformation complete")
     return cleaned
 
 
@@ -67,7 +67,7 @@ def load_to_csv(df: pd.DataFrame, save_path: str):
     Save cleaned DataFrame as CSV.
     """
     df.to_csv(save_path, index=False)
-    print(f"✅ Cleaned data saved to CSV at {save_path}")
+    print(f"Cleaned data saved to CSV at {save_path}")
 
 
 # %% [Optional: Basic Analysis]
