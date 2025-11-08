@@ -1,6 +1,3 @@
-# sdg_etl_pipeline
-AICA Data Engineering ETL pipeline Project
-
 # SDG ETL Pipeline
 
 This project extracts SDG (Sustainable Development Goals) data from the UNDP API, cleans and transforms it, merges it with a country reference dataset, and saves the cleaned data as a CSV file. Optional analysis is included to explore the data.
@@ -27,7 +24,31 @@ The ETL pipeline consists of the following stages:
 
 ## How to Run
 
-1. Ensure Python installed.
+1. Ensure the latest Python version is installed.
 2. Install dependencies (if not already):
 
+```bash
 pip install pandas requests
+```
+3. Run the ETL pipeline:
+```bash
+python AICA_DE_ETL_Project.py
+```
+
+
+```markdown
+The script will:
+
+* Download the JSON data from the API
+* Transform and merge with country data
+* Save the cleaned dataset as `sdg_recipients_cleaned.csv`
+* Print basic analysis results
+
+## Notes
+
+* Ensure `all_countries.csv` is in the same directory as the script or update the path accordingly.
+* Optional analysis is printed to the console; you can extend it for more insights.
+
+## License
+
+This project is open-source and free to use for educational purposes.
