@@ -1,0 +1,146 @@
+sdg_code,iso3,recipient_budget,recipient_expense,sdg_code,sdg_name,country,capital,region,continents,area,population,iso2
+1,GTM,809048955.0,497824600.0,1,No poverty,Guatemala,Guatemala City,Americas,North America,108889.0,16858333.0,GT
+1,BRA,718743922.0,241533022.0,1,No poverty,Brazil,Brasília,Americas,South America,8515767.0,212559409.0,BR
+1,ARG,430965345.0,250709832.0,1,No poverty,Argentina,Buenos Aires,Americas,South America,2780400.0,45376763.0,AR
+1,ZWE,396714248.0,155369729.0,1,No poverty,Zimbabwe,Harare,Africa,Africa,390757.0,14862927.0,ZW
+1,IRQ,368544242.0,270415476.0,1,No poverty,Iraq,Baghdad,Asia,Asia,438317.0,40222503.0,IQ
+1,LBN,367301392.0,123846728.0,1,No poverty,Lebanon,Beirut,Asia,Asia,10452.0,6825442.0,LB
+1,EGY,344072038.0,111620890.0,1,No poverty,Egypt,Cairo,Africa,Africa,1002450.0,102334403.0,EG
+1,YEM,326851098.0,192893769.0,1,No poverty,Yemen,Sana'a,Asia,Asia,527968.0,29825968.0,YE
+10,SRB,143193131.0,60263362.0,10,Reduced inequalities,Serbia,Belgrade,Europe,Europe,88361.0,6908224.0,RS
+10,MAR,128500516.0,45105476.0,10,Reduced inequalities,Morocco,Rabat,Africa,Africa,446550.0,36910558.0,MA
+10,PAN,126486733.0,24180655.0,10,Reduced inequalities,Panama,Panama City,Americas,North America,75417.0,4314768.0,PA
+10,COD,65358263.0,144117449.0,10,Reduced inequalities,DR Congo,Kinshasa,Africa,Africa,2344858.0,108407721.0,CD
+10,ARG,63124914.0,20191529.0,10,Reduced inequalities,Argentina,Buenos Aires,Americas,South America,2780400.0,45376763.0,AR
+10,SSD,50612111.0,43849663.0,10,Reduced inequalities,South Sudan,Juba,Africa,Africa,619745.0,11193729.0,SS
+10,VEN,45598499.0,20108123.0,10,Reduced inequalities,Venezuela,Caracas,Americas,South America,916445.0,28435943.0,VE
+10,PAK,39637181.0,22769167.0,10,Reduced inequalities,Pakistan,Islamabad,Asia,Asia,881912.0,220892331.0,PK
+10,COL,30708988.0,17754805.0,10,Reduced inequalities,Colombia,Bogotá,Americas,South America,1141748.0,50882884.0,CO
+11,ARG,1335740624.0,603309232.0,11,Sustainable cities and communities,Argentina,Buenos Aires,Americas,South America,2780400.0,45376763.0,AR
+11,GTM,509918282.0,330220872.0,11,Sustainable cities and communities,Guatemala,Guatemala City,Americas,North America,108889.0,16858333.0,GT
+11,URY,230299206.0,156190394.0,11,Sustainable cities and communities,Uruguay,Montevideo,Americas,South America,181034.0,3473727.0,UY
+11,LBN,195243113.0,106492626.0,11,Sustainable cities and communities,Lebanon,Beirut,Asia,Asia,10452.0,6825442.0,LB
+11,UKR,149659552.0,109055777.0,11,Sustainable cities and communities,Ukraine,Kyiv,Europe,Europe,603500.0,44134693.0,UA
+11,SRB,136827464.0,55219591.0,11,Sustainable cities and communities,Serbia,Belgrade,Europe,Europe,88361.0,6908224.0,RS
+11,SYR,119349830.0,56047799.0,11,Sustainable cities and communities,Syria,Damascus,Asia,Asia,185180.0,17500657.0,SY
+11,CYP,105385812.0,49410785.0,11,Sustainable cities and communities,Cyprus,Nicosia,Europe,Europe,9251.0,1207361.0,CY
+11,SAU,93035682.0,59683842.0,11,Sustainable cities and communities,Saudi Arabia,Riyadh,Asia,Asia,2149690.0,34813867.0,SA
+11,VNM,77738377.0,37740764.0,11,Sustainable cities and communities,Vietnam,Hanoi,Asia,Asia,331212.0,97338583.0,VN
+12,MDA,121418434.0,107909931.0,12,Responsible consumption and production,Moldova,Chișinău,Europe,Europe,33846.0,2617820.0,MD
+12,COL,79993067.0,76272371.0,12,Responsible consumption and production,Colombia,Bogotá,Americas,South America,1141748.0,50882884.0,CO
+12,CHN,74236372.0,13297483.0,12,Responsible consumption and production,China,Beijing,Asia,Asia,9706961.0,1402112000.0,CN
+12,ECU,59176399.0,41452394.0,12,Responsible consumption and production,Ecuador,Quito,Americas,South America,276841.0,17643060.0,EC
+12,SRB,54954954.0,26657539.0,12,Responsible consumption and production,Serbia,Belgrade,Europe,Europe,88361.0,6908224.0,RS
+12,BRA,41984783.0,18592301.0,12,Responsible consumption and production,Brazil,Brasília,Americas,South America,8515767.0,212559409.0,BR
+12,SYR,37468983.0,16676532.0,12,Responsible consumption and production,Syria,Damascus,Asia,Asia,185180.0,17500657.0,SY
+12,ARG,35276308.0,20152236.0,12,Responsible consumption and production,Argentina,Buenos Aires,Americas,South America,2780400.0,45376763.0,AR
+12,VCT,30755538.0,15237270.0,12,Responsible consumption and production,Saint Vincent and the Grenadines,Kingstown,Americas,North America,389.0,110947.0,VC
+13,AFG,420734924.0,385551254.0,13,Climate action,Afghanistan,Kabul,Asia,Asia,652230.0,40218234.0,AF
+13,COL,227779029.0,208027638.0,13,Climate action,Colombia,Bogotá,Americas,South America,1141748.0,50882884.0,CO
+13,IND,183028812.0,42273672.0,13,Climate action,India,New Delhi,Asia,Asia,3287590.0,1380004385.0,IN
+13,COD,164474047.0,111140859.0,13,Climate action,DR Congo,Kinshasa,Africa,Africa,2344858.0,108407721.0,CD
+13,GEO,158905693.0,41250881.0,13,Climate action,Georgia,Tbilisi,Asia,Asia,69700.0,3714000.0,GE
+13,BGD,149033258.0,79690147.0,13,Climate action,Bangladesh,Dhaka,Asia,Asia,147570.0,164689383.0,BD
+13,CHN,141106025.0,33338165.0,13,Climate action,China,Beijing,Asia,Asia,9706961.0,1402112000.0,CN
+13,GTM,118618000.0,49398621.0,13,Climate action,Guatemala,Guatemala City,Americas,North America,108889.0,16858333.0,GT
+14,IDN,70497116.0,31524956.0,14,Life below water,Indonesia,Jakarta,Asia,Asia,1904569.0,273523621.0,ID
+14,BRB,47690032.0,9317241.0,14,Life below water,Barbados,Bridgetown,Americas,North America,430.0,287371.0,BB
+14,MUS,32043457.0,4908634.0,14,Life below water,Mauritius,Port Louis,Africa,Africa,2040.0,1265740.0,MU
+14,MEX,25308243.0,17644708.0,14,Life below water,Mexico,Mexico City,Americas,North America,1964375.0,128932753.0,MX
+14,GNB,25105867.0,19273102.0,14,Life below water,Guinea-Bissau,Bissau,Africa,Africa,36125.0,1967998.0,GW
+14,PNG,23986575.0,15622336.0,14,Life below water,Papua New Guinea,Port Moresby,Oceania,Oceania,462840.0,8947027.0,PG
+14,FJI,19755240.0,8105910.0,14,Life below water,Fiji,Suva,Oceania,Oceania,18272.0,896444.0,FJ
+14,LKA,16227502.0,6709492.0,14,Life below water,Sri Lanka,Sri Jayawardenepura Kotte,Asia,Asia,65610.0,21919000.0,LK
+15,BRA,1072676388.0,242874144.0,15,Life on Land,Brazil,Brasília,Americas,South America,8515767.0,212559409.0,BR
+15,ARG,186963634.0,51961965.0,15,Life on Land,Argentina,Buenos Aires,Americas,South America,2780400.0,45376763.0,AR
+15,COL,186171888.0,157612231.0,15,Life on Land,Colombia,Bogotá,Americas,South America,1141748.0,50882884.0,CO
+15,AFG,138217409.0,125546501.0,15,Life on Land,Afghanistan,Kabul,Asia,Asia,652230.0,40218234.0,AF
+15,COD,100173552.0,70875146.0,15,Life on Land,DR Congo,Kinshasa,Africa,Africa,2344858.0,108407721.0,CD
+15,VCT,82014768.0,40619184.0,15,Life on Land,Saint Vincent and the Grenadines,Kingstown,Americas,North America,389.0,110947.0,VC
+15,MEX,78106871.0,47338096.0,15,Life on Land,Mexico,Mexico City,Americas,North America,1964375.0,128932753.0,MX
+15,MOZ,73359516.0,55917881.0,15,Life on Land,Mozambique,Maputo,Africa,Africa,801590.0,31255435.0,MZ
+16,ARG,2523836655.0,1226782308.0,16,"Peace, justice, and strong institutions",Argentina,Buenos Aires,Americas,South America,2780400.0,45376763.0,AR
+16,UKR,1022524788.0,839678335.0,16,"Peace, justice, and strong institutions",Ukraine,Kyiv,Europe,Europe,603500.0,44134693.0,UA
+16,GTM,787200563.0,490957278.0,16,"Peace, justice, and strong institutions",Guatemala,Guatemala City,Americas,North America,108889.0,16858333.0,GT
+16,COL,493294351.0,286095452.0,16,"Peace, justice, and strong institutions",Colombia,Bogotá,Americas,South America,1141748.0,50882884.0,CO
+16,ETH,471082837.0,347332291.0,16,"Peace, justice, and strong institutions",Ethiopia,Addis Ababa,Africa,Africa,1104300.0,114963583.0,ET
+16,BRA,380839513.0,147536607.0,16,"Peace, justice, and strong institutions",Brazil,Brasília,Americas,South America,8515767.0,212559409.0,BR
+16,PRY,364404490.0,225628721.0,16,"Peace, justice, and strong institutions",Paraguay,Asunción,Americas,South America,406752.0,7132530.0,PY
+16,LBN,304275334.0,126536766.0,16,"Peace, justice, and strong institutions",Lebanon,Beirut,Asia,Asia,10452.0,6825442.0,LB
+17,EGY,350690558.0,190228383.0,17,Partnerships for the goals,Egypt,Cairo,Africa,Africa,1002450.0,102334403.0,EG
+17,CUB,339841698.0,18525367.0,17,Partnerships for the goals,Cuba,Havana,Americas,North America,109884.0,11326616.0,CU
+17,DMA,323906400.0,176989686.0,17,Partnerships for the goals,Dominica,Roseau,Americas,North America,751.0,71991.0,DM
+17,BRA,316479988.0,197685267.0,17,Partnerships for the goals,Brazil,Brasília,Americas,South America,8515767.0,212559409.0,BR
+17,ZWE,235241138.0,58079680.0,17,Partnerships for the goals,Zimbabwe,Harare,Africa,Africa,390757.0,14862927.0,ZW
+17,AFG,180197951.0,152350586.0,17,Partnerships for the goals,Afghanistan,Kabul,Asia,Asia,652230.0,40218234.0,AF
+17,COD,162650574.0,97511391.0,17,Partnerships for the goals,DR Congo,Kinshasa,Africa,Africa,2344858.0,108407721.0,CD
+17,UKR,119935895.0,117584993.0,17,Partnerships for the goals,Ukraine,Kyiv,Europe,Europe,603500.0,44134693.0,UA
+17,UGA,93577567.0,74047823.0,17,Partnerships for the goals,Uganda,Kampala,Africa,Africa,241550.0,45741000.0,UG
+2,ARG,750000000.0,498294780.0,2,Zero hunger,Argentina,Buenos Aires,Americas,South America,2780400.0,45376763.0,AR
+2,TUR,163400340.0,101751318.0,2,Zero hunger,Turkey,Ankara,Asia,Europe,783562.0,84339067.0,TR
+2,LBN,128742269.0,79020531.0,2,Zero hunger,Lebanon,Beirut,Asia,Asia,10452.0,6825442.0,LB
+2,YEM,76509897.0,35374534.0,2,Zero hunger,Yemen,Sana'a,Asia,Asia,527968.0,29825968.0,YE
+2,CUB,63423092.0,43017246.0,2,Zero hunger,Cuba,Havana,Americas,North America,109884.0,11326616.0,CU
+2,SDN,58143704.0,21325396.0,2,Zero hunger,Sudan,Khartoum,Africa,Africa,1886068.0,43849269.0,SD
+2,COD,42375238.0,30275601.0,2,Zero hunger,DR Congo,Kinshasa,Africa,Africa,2344858.0,108407721.0,CD
+2,NPL,37605393.0,21611241.0,2,Zero hunger,Nepal,Kathmandu,Asia,Asia,147181.0,29136808.0,NP
+2,SYR,37468983.0,16676532.0,2,Zero hunger,Syria,Damascus,Asia,Asia,185180.0,17500657.0,SY
+3,ARG,1739631368.0,543352514.0,3,Good health and well-being,Argentina,Buenos Aires,Americas,South America,2780400.0,45376763.0,AR
+3,ZWE,456646164.0,204753961.0,3,Good health and well-being,Zimbabwe,Harare,Africa,Africa,390757.0,14862927.0,ZW
+3,TKM,410856161.0,284071851.0,3,Good health and well-being,Turkmenistan,Ashgabat,Asia,Asia,488100.0,6031187.0,TM
+3,CUB,344261552.0,26129910.0,3,Good health and well-being,Cuba,Havana,Americas,North America,109884.0,11326616.0,CU
+3,COD,316906673.0,164770498.0,3,Good health and well-being,DR Congo,Kinshasa,Africa,Africa,2344858.0,108407721.0,CD
+3,SDN,300093449.0,184187659.0,3,Good health and well-being,Sudan,Khartoum,Africa,Africa,1886068.0,43849269.0,SD
+3,IDN,284655225.0,150538570.0,3,Good health and well-being,Indonesia,Jakarta,Asia,Asia,1904569.0,273523621.0,ID
+3,IND,220979794.0,135806814.0,3,Good health and well-being,India,New Delhi,Asia,Asia,3287590.0,1380004385.0,IN
+3,AGO,196974057.0,91405838.0,3,Good health and well-being,Angola,Luanda,Africa,Africa,1246700.0,32866268.0,AO
+4,PAN,128474974.0,30822944.0,4,Quality education,Panama,Panama City,Americas,North America,75417.0,4314768.0,PA
+4,UKR,61374171.0,50330066.0,4,Quality education,Ukraine,Kyiv,Europe,Europe,603500.0,44134693.0,UA
+4,SYR,50541120.0,25379589.0,4,Quality education,Syria,Damascus,Asia,Asia,185180.0,17500657.0,SY
+4,MDA,38664204.0,19492804.0,4,Quality education,Moldova,Chișinău,Europe,Europe,33846.0,2617820.0,MD
+4,COD,31979130.0,18470360.0,4,Quality education,DR Congo,Kinshasa,Africa,Africa,2344858.0,108407721.0,CD
+4,GAB,31912159.0,21434761.0,4,Quality education,Gabon,Libreville,Africa,Africa,267668.0,2225728.0,GA
+4,ARG,29492986.0,1708015.0,4,Quality education,Argentina,Buenos Aires,Americas,South America,2780400.0,45376763.0,AR
+4,SSD,28729504.0,18149396.0,4,Quality education,South Sudan,Juba,Africa,Africa,619745.0,11193729.0,SS
+5,ARG,913748856.0,264347945.0,5,Gender equality,Argentina,Buenos Aires,Americas,South America,2780400.0,45376763.0,AR
+5,LBN,430390881.0,164784156.0,5,Gender equality,Lebanon,Beirut,Asia,Asia,10452.0,6825442.0,LB
+5,IDN,267000450.0,144866097.0,5,Gender equality,Indonesia,Jakarta,Asia,Asia,1904569.0,273523621.0,ID
+5,HTI,254779740.0,149633398.0,5,Gender equality,Haiti,Port-au-Prince,Americas,North America,27750.0,11402533.0,HT
+5,PAN,223679679.0,108909145.0,5,Gender equality,Panama,Panama City,Americas,North America,75417.0,4314768.0,PA
+5,HND,156129210.0,45762367.0,5,Gender equality,Honduras,Tegucigalpa,Americas,North America,112492.0,9904608.0,HN
+5,BRA,156066819.0,50648509.0,5,Gender equality,Brazil,Brasília,Americas,South America,8515767.0,212559409.0,BR
+5,URY,129528322.0,86461166.0,5,Gender equality,Uruguay,Montevideo,Americas,South America,181034.0,3473727.0,UY
+5,COL,107344684.0,51047336.0,5,Gender equality,Colombia,Bogotá,Americas,South America,1141748.0,50882884.0,CO
+6,AFG,144993135.0,128550418.0,6,Clean water and sanitation,Afghanistan,Kabul,Asia,Asia,652230.0,40218234.0,AF
+6,COM,132195854.0,78705321.0,6,Clean water and sanitation,Comoros,Moroni,Africa,Africa,1862.0,869595.0,KM
+6,LBN,122139680.0,77581530.0,6,Clean water and sanitation,Lebanon,Beirut,Asia,Asia,10452.0,6825442.0,LB
+6,URY,111040071.0,75082895.0,6,Clean water and sanitation,Uruguay,Montevideo,Americas,South America,181034.0,3473727.0,UY
+6,SYR,69923805.0,45459951.0,6,Clean water and sanitation,Syria,Damascus,Asia,Asia,185180.0,17500657.0,SY
+6,SDN,49362531.0,25836453.0,6,Clean water and sanitation,Sudan,Khartoum,Africa,Africa,1886068.0,43849269.0,SD
+6,LBY,33142692.0,14676336.0,6,Clean water and sanitation,Libya,Tripoli,Africa,Africa,1759540.0,6871287.0,LY
+6,SAU,31560000.0,24075000.0,6,Clean water and sanitation,Saudi Arabia,Riyadh,Asia,Asia,2149690.0,34813867.0,SA
+6,MHL,30536388.0,22867494.0,6,Clean water and sanitation,Marshall Islands,Majuro,Oceania,Oceania,181.0,59194.0,MH
+7,UKR,664199828.0,601301538.0,7,Affordable and clean energy,Ukraine,Kyiv,Europe,Europe,603500.0,44134693.0,UA
+7,MDA,221120463.0,204423530.0,7,Affordable and clean energy,Moldova,Chișinău,Europe,Europe,33846.0,2617820.0,MD
+7,AFG,216629943.0,182717620.0,7,Affordable and clean energy,Afghanistan,Kabul,Asia,Asia,652230.0,40218234.0,AF
+7,COD,170175195.0,197895712.0,7,Affordable and clean energy,DR Congo,Kinshasa,Africa,Africa,2344858.0,108407721.0,CD
+7,BIH,64476268.0,19730239.0,7,Affordable and clean energy,Bosnia and Herzegovina,Sarajevo,Europe,Europe,51209.0,3280815.0,BA
+7,ARM,54610151.0,32894074.0,7,Affordable and clean energy,Armenia,Yerevan,Asia,Asia,29743.0,2963234.0,AM
+7,LBN,53548691.0,17210297.0,7,Affordable and clean energy,Lebanon,Beirut,Asia,Asia,10452.0,6825442.0,LB
+7,MOZ,48660447.0,15258399.0,7,Affordable and clean energy,Mozambique,Maputo,Africa,Africa,801590.0,31255435.0,MZ
+7,ZWE,48318271.0,51158686.0,7,Affordable and clean energy,Zimbabwe,Harare,Africa,Africa,390757.0,14862927.0,ZW
+8,LBN,374237572.0,135239841.0,8,Decent work and economic growth,Lebanon,Beirut,Asia,Asia,10452.0,6825442.0,LB
+8,ARG,290452633.0,13591843.0,8,Decent work and economic growth,Argentina,Buenos Aires,Americas,South America,2780400.0,45376763.0,AR
+8,ETH,215177986.0,161102428.0,8,Decent work and economic growth,Ethiopia,Addis Ababa,Africa,Africa,1104300.0,114963583.0,ET
+8,UKR,157882268.0,127546003.0,8,Decent work and economic growth,Ukraine,Kyiv,Europe,Europe,603500.0,44134693.0,UA
+8,PAN,150080434.0,41217725.0,8,Decent work and economic growth,Panama,Panama City,Americas,North America,75417.0,4314768.0,PA
+8,AFG,148678485.0,146426417.0,8,Decent work and economic growth,Afghanistan,Kabul,Asia,Asia,652230.0,40218234.0,AF
+8,SSD,112304724.0,92772012.0,8,Decent work and economic growth,South Sudan,Juba,Africa,Africa,619745.0,11193729.0,SS
+9,UKR,684434657.0,665930604.0,9,"Industry, innovation and infrastructure",Ukraine,Kyiv,Europe,Europe,603500.0,44134693.0,UA
+9,CUB,350754068.0,18892446.0,9,"Industry, innovation and infrastructure",Cuba,Havana,Americas,North America,109884.0,11326616.0,CU
+9,ARG,228560954.0,8393018.0,9,"Industry, innovation and infrastructure",Argentina,Buenos Aires,Americas,South America,2780400.0,45376763.0,AR
+9,SRB,186291255.0,85434010.0,9,"Industry, innovation and infrastructure",Serbia,Belgrade,Europe,Europe,88361.0,6908224.0,RS
+9,HND,139027488.0,38586444.0,9,"Industry, innovation and infrastructure",Honduras,Tegucigalpa,Americas,North America,112492.0,9904608.0,HN
+9,MOZ,126812416.0,66639195.0,9,"Industry, innovation and infrastructure",Mozambique,Maputo,Africa,Africa,801590.0,31255435.0,MZ
+9,MDA,116931108.0,105067304.0,9,"Industry, innovation and infrastructure",Moldova,Chișinău,Europe,Europe,33846.0,2617820.0,MD
+9,COD,114805331.0,69568274.0,9,"Industry, innovation and infrastructure",DR Congo,Kinshasa,Africa,Africa,2344858.0,108407721.0,CD

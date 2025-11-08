@@ -1,0 +1,4166 @@
+[
+    {
+        "sdg_code": "1",
+        "sdg_name": "No poverty",
+        "color": "e81928",
+        "total_projects": 1115.0,
+        "total_donors": 441.0,
+        "total_budget": 670654252.21,
+        "total_expense": 370613275.72,
+        "percentage": 9.9,
+        "target_details": [
+            {
+                "target_id": "1.1",
+                "description": "By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day",
+                "sdg_code": "1",
+                "target_budget": 115735355.1356,
+                "target_expense": 60591249.9512,
+                "total_projects": 245,
+                "total_donors": 132
+            },
+            {
+                "target_id": "1.2",
+                "description": "By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",
+                "sdg_code": "1",
+                "target_budget": 52158054.0533,
+                "target_expense": 23011481.5039,
+                "total_projects": 210,
+                "total_donors": 113
+            },
+            {
+                "target_id": "1.3",
+                "description": "Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable",
+                "sdg_code": "1",
+                "target_budget": 97269697.3325,
+                "target_expense": 48590843.5912,
+                "total_projects": 157,
+                "total_donors": 112
+            },
+            {
+                "target_id": "1.4",
+                "description": "By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance",
+                "sdg_code": "1",
+                "target_budget": 196665213.8,
+                "target_expense": 123072828.8454,
+                "total_projects": 388,
+                "total_donors": 227
+            },
+            {
+                "target_id": "1.5",
+                "description": "By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters",
+                "sdg_code": "1",
+                "target_budget": 134727007.7348,
+                "target_expense": 74210003.5161,
+                "total_projects": 293,
+                "total_donors": 140
+            },
+            {
+                "target_id": "1.a",
+                "description": "Ensure significant mobilization of resources from a variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programmes and policies to end poverty in all its dimensions",
+                "sdg_code": "1",
+                "target_budget": 62397084.4941,
+                "target_expense": 33361961.9207,
+                "total_projects": 164,
+                "total_donors": 144
+            },
+            {
+                "target_id": "1.b",
+                "description": "Create sound policy frameworks at the national, regional and international levels, based on pro-poor and gender-sensitive development strategies, to support accelerated investment in poverty eradication actions",
+                "sdg_code": "1",
+                "target_budget": 11701839.6629,
+                "target_expense": 7774906.3929,
+                "total_projects": 63,
+                "total_donors": 53
+            }
+        ],
+        "top_donors": [
+            {
+                "sdg_code": "1",
+                "short_name": "GCF",
+                "org_name": "GREEN CLIMATE FUND",
+                "total_budget": 908072945.0,
+                "total_expense": 315903837.0
+            },
+            {
+                "sdg_code": "1",
+                "short_name": "UNDP",
+                "org_name": "UNITED NATIONS DEVELOPMENT PROGRAMME",
+                "total_budget": 803838494.0,
+                "total_expense": 699289122.0
+            },
+            {
+                "sdg_code": "1",
+                "short_name": "GUA",
+                "org_name": "GOVERNMENT OF GUATEMALA",
+                "total_budget": 796714042.0,
+                "total_expense": 493169336.0
+            },
+            {
+                "sdg_code": "1",
+                "short_name": "KFW",
+                "org_name": "KREDITANSTALT FUR WIEDERAUFBAU",
+                "total_budget": 532576452.0,
+                "total_expense": 283079339.0
+            },
+            {
+                "sdg_code": "1",
+                "short_name": "EUCOMM",
+                "org_name": "EUROPEAN COMMISSION",
+                "total_budget": 491606178.0,
+                "total_expense": 242515225.0
+            },
+            {
+                "sdg_code": "1",
+                "short_name": "GFATM",
+                "org_name": "The Global Fund to Fight AIDS, Tuberculosis and Malaria",
+                "total_budget": 445700074.0,
+                "total_expense": 124889068.0
+            },
+            {
+                "sdg_code": "1",
+                "short_name": "GOB",
+                "org_name": "ARG-GOBIERNO",
+                "total_budget": 430955265.0,
+                "total_expense": 250709832.0
+            },
+            {
+                "sdg_code": "1",
+                "short_name": "IDA",
+                "org_name": "Intl Dev Association (IDA)",
+                "total_budget": 312043770.0,
+                "total_expense": 155346778.0
+            },
+            {
+                "sdg_code": "1",
+                "short_name": "GER",
+                "org_name": "GOVERNMENT OF GERMANY",
+                "total_budget": 194476883.0,
+                "total_expense": 138249210.0
+            },
+            {
+                "sdg_code": "1",
+                "short_name": "GEFTrustee",
+                "org_name": "Global Environment Fund Truste",
+                "total_budget": 184627541.0,
+                "total_expense": 86160101.0
+            }
+        ],
+        "top_recipients": [
+            {
+                "sdg_code": "1",
+                "name": "Guatemala",
+                "iso3": "GTM",
+                "total_budget": 809048955.0,
+                "total_expense": 497824600.0
+            },
+            {
+                "sdg_code": "1",
+                "name": "Brazil",
+                "iso3": "BRA",
+                "total_budget": 718743922.0,
+                "total_expense": 241533022.0
+            },
+            {
+                "sdg_code": "1",
+                "name": "Argentina",
+                "iso3": "ARG",
+                "total_budget": 430965345.0,
+                "total_expense": 250709832.0
+            },
+            {
+                "sdg_code": "1",
+                "name": "Zimbabwe",
+                "iso3": "ZWE",
+                "total_budget": 396714248.0,
+                "total_expense": 155369729.0
+            },
+            {
+                "sdg_code": "1",
+                "name": "Iraq",
+                "iso3": "IRQ",
+                "total_budget": 368544242.0,
+                "total_expense": 270415476.0
+            },
+            {
+                "sdg_code": "1",
+                "name": "Lebanon",
+                "iso3": "LBN",
+                "total_budget": 367301392.0,
+                "total_expense": 123846728.0
+            },
+            {
+                "sdg_code": "1",
+                "name": "Egypt",
+                "iso3": "EGY",
+                "total_budget": 344072038.0,
+                "total_expense": 111620890.0
+            },
+            {
+                "sdg_code": "1",
+                "name": "Bureau Policy & Prog Support",
+                "iso3": "H70",
+                "total_budget": 328134824.0,
+                "total_expense": 146175000.0
+            },
+            {
+                "sdg_code": "1",
+                "name": "Yemen",
+                "iso3": "YEM",
+                "total_budget": 326851098.0,
+                "total_expense": 192893769.0
+            },
+            {
+                "sdg_code": "1",
+                "name": "Regional Center - Addis Ababa",
+                "iso3": "R12",
+                "total_budget": 246420742.0,
+                "total_expense": 253082985.0
+            }
+        ]
+    },
+    {
+        "sdg_code": "10",
+        "sdg_name": "Reduced inequalities",
+        "color": "dd1479",
+        "total_projects": 414.0,
+        "total_donors": 215.0,
+        "total_budget": 155710282.26,
+        "total_expense": 84734707.63,
+        "percentage": 2.3,
+        "target_details": [
+            {
+                "target_id": "10.1",
+                "description": "By 2030, progressively achieve and sustain income growth of the bottom 40 per cent of the population at a rate higher than the national average",
+                "sdg_code": "10",
+                "target_budget": 14166940.7519,
+                "target_expense": 12750293.4779,
+                "total_projects": 64,
+                "total_donors": 46
+            },
+            {
+                "target_id": "10.2",
+                "description": "By 2030, empower and promote the social, economic and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status",
+                "sdg_code": "10",
+                "target_budget": 84906607.2811,
+                "target_expense": 45904907.6751,
+                "total_projects": 230,
+                "total_donors": 151
+            },
+            {
+                "target_id": "10.3",
+                "description": "Ensure equal opportunity and reduce inequalities of outcome, including by eliminating discriminatory laws, policies and practices and promoting appropriate legislation, policies and action in this regard",
+                "sdg_code": "10",
+                "target_budget": 23451283.3721,
+                "target_expense": 15129021.502,
+                "total_projects": 78,
+                "total_donors": 66
+            },
+            {
+                "target_id": "10.4",
+                "description": "Adopt policies, especially fiscal, wage and social protection policies, and progressively achieve greater equality",
+                "sdg_code": "10",
+                "target_budget": 15030264.7601,
+                "target_expense": 2461802.4952,
+                "total_projects": 31,
+                "total_donors": 32
+            },
+            {
+                "target_id": "10.5",
+                "description": "Improve the regulation and monitoring of global financial markets and institutions and strengthen the implementation of such regulations",
+                "sdg_code": "10",
+                "target_budget": 9479572.4295,
+                "target_expense": 4081195.477,
+                "total_projects": 14,
+                "total_donors": 11
+            },
+            {
+                "target_id": "10.6",
+                "description": "Ensure enhanced representation and voice for developing countries in decision-making in global international economic and financial institutions in order to deliver more effective, credible, accountable and legitimate institutions",
+                "sdg_code": "10",
+                "target_budget": 2485708.2475,
+                "target_expense": 1572739.8145,
+                "total_projects": 12,
+                "total_donors": 12
+            },
+            {
+                "target_id": "10.7",
+                "description": "Facilitate orderly, safe, regular and responsible migration and mobility of people, including through the implementation of planned and well-managed migration policies",
+                "sdg_code": "10",
+                "target_budget": 1390703.0422,
+                "target_expense": 667545.646,
+                "total_projects": 15,
+                "total_donors": 10
+            },
+            {
+                "target_id": "10.a",
+                "description": "Implement the principle of special and differential treatment for developing countries, in particular least developed countries, in accordance with World Trade Organization agreements",
+                "sdg_code": "10",
+                "target_budget": 291744.7784,
+                "target_expense": 193712.129,
+                "total_projects": 4,
+                "total_donors": 5
+            },
+            {
+                "target_id": "10.b",
+                "description": "Encourage official development assistance and financial flows, including foreign direct investment, to States where the need is greatest, in particular least developed countries, African countries, small island developing States and landlocked developing countries, in accordance with their national plans and programmes",
+                "sdg_code": "10",
+                "target_budget": 4460779.0,
+                "target_expense": 1970627.75,
+                "total_projects": 1,
+                "total_donors": 1
+            },
+            {
+                "target_id": "10.c",
+                "description": "By 2030, reduce to less than 3 per cent the transaction costs of migrant remittances and eliminate remittance corridors with costs higher than 5 per cent",
+                "sdg_code": "10",
+                "target_budget": 46678.6,
+                "target_expense": 2861.6611,
+                "total_projects": 2,
+                "total_donors": 2
+            }
+        ],
+        "top_donors": [
+            {
+                "sdg_code": "10",
+                "short_name": "UNDP",
+                "org_name": "UNITED NATIONS DEVELOPMENT PROGRAMME",
+                "total_budget": 151607702.0,
+                "total_expense": 116587659.0
+            },
+            {
+                "sdg_code": "10",
+                "short_name": "Serbia",
+                "org_name": "Government of Serbia",
+                "total_budget": 126373245.0,
+                "total_expense": 52543273.0
+            },
+            {
+                "sdg_code": "10",
+                "short_name": "GOVT",
+                "org_name": "PAN-GOVERNMENT",
+                "total_budget": 126236433.0,
+                "total_expense": 23867795.0
+            },
+            {
+                "sdg_code": "10",
+                "short_name": "MOR",
+                "org_name": "GOVERNMENT OF MOROCCO",
+                "total_budget": 123003514.0,
+                "total_expense": 44183786.0
+            },
+            {
+                "sdg_code": "10",
+                "short_name": "EUCOMM",
+                "org_name": "EUROPEAN COMMISSION",
+                "total_budget": 74198626.0,
+                "total_expense": 43921890.0
+            },
+            {
+                "sdg_code": "10",
+                "short_name": "GOB",
+                "org_name": "ARG-GOBIERNO",
+                "total_budget": 62965386.0,
+                "total_expense": 20056604.0
+            },
+            {
+                "sdg_code": "10",
+                "short_name": "GFATM",
+                "org_name": "The Global Fund to Fight AIDS, Tuberculosis and Malaria",
+                "total_budget": 62463353.0,
+                "total_expense": 39321067.0
+            },
+            {
+                "sdg_code": "10",
+                "short_name": "GCF",
+                "org_name": "GREEN CLIMATE FUND",
+                "total_budget": 50220278.0,
+                "total_expense": 43824651.0
+            },
+            {
+                "sdg_code": "10",
+                "short_name": "ZAI",
+                "org_name": "GOVERNMENT OF DEM REPUBLIC OF THE CONGO",
+                "total_budget": 40167880.0,
+                "total_expense": 128380256.0
+            },
+            {
+                "sdg_code": "10",
+                "short_name": "USAID",
+                "org_name": "USAID",
+                "total_budget": 35775373.0,
+                "total_expense": 14762459.0
+            }
+        ],
+        "top_recipients": [
+            {
+                "sdg_code": "10",
+                "name": "Serbia",
+                "iso3": "SRB",
+                "total_budget": 143193131.0,
+                "total_expense": 60263362.0
+            },
+            {
+                "sdg_code": "10",
+                "name": "Morocco",
+                "iso3": "MAR",
+                "total_budget": 128500516.0,
+                "total_expense": 45105476.0
+            },
+            {
+                "sdg_code": "10",
+                "name": "Panama",
+                "iso3": "PAN",
+                "total_budget": 126486733.0,
+                "total_expense": 24180655.0
+            },
+            {
+                "sdg_code": "10",
+                "name": "Bureau Policy & Prog Support",
+                "iso3": "H70",
+                "total_budget": 70045543.0,
+                "total_expense": 30698910.0
+            },
+            {
+                "sdg_code": "10",
+                "name": "Democratic Republic of Congo",
+                "iso3": "COD",
+                "total_budget": 65358263.0,
+                "total_expense": 144117449.0
+            },
+            {
+                "sdg_code": "10",
+                "name": "Argentina",
+                "iso3": "ARG",
+                "total_budget": 63124914.0,
+                "total_expense": 20191529.0
+            },
+            {
+                "sdg_code": "10",
+                "name": "South Sudan, Republic of",
+                "iso3": "SSD",
+                "total_budget": 50612111.0,
+                "total_expense": 43849663.0
+            },
+            {
+                "sdg_code": "10",
+                "name": "Venezuela",
+                "iso3": "VEN",
+                "total_budget": 45598499.0,
+                "total_expense": 20108123.0
+            },
+            {
+                "sdg_code": "10",
+                "name": "Pakistan",
+                "iso3": "PAK",
+                "total_budget": 39637181.0,
+                "total_expense": 22769167.0
+            },
+            {
+                "sdg_code": "10",
+                "name": "Colombia",
+                "iso3": "COL",
+                "total_budget": 30708988.0,
+                "total_expense": 17754805.0
+            }
+        ]
+    },
+    {
+        "sdg_code": "11",
+        "sdg_name": "Sustainable cities and communities",
+        "color": "f89222",
+        "total_projects": 388.0,
+        "total_donors": 203.0,
+        "total_budget": 335369021.41,
+        "total_expense": 151959077.24,
+        "percentage": 4.95,
+        "target_details": [
+            {
+                "target_id": "11.1",
+                "description": "By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums",
+                "sdg_code": "11",
+                "target_budget": 31254288.2239,
+                "target_expense": 15252110.9912,
+                "total_projects": 45,
+                "total_donors": 43
+            },
+            {
+                "target_id": "11.2",
+                "description": "By 2030, provide access to safe, affordable, accessible and sustainable transport systems for all, improving road safety, notably by expanding public transport, with special attention to the needs of those in vulnerable situations, women, children, persons with disabilities and older persons",
+                "sdg_code": "11",
+                "target_budget": 26792423.7007,
+                "target_expense": 8736198.9526,
+                "total_projects": 31,
+                "total_donors": 31
+            },
+            {
+                "target_id": "11.3",
+                "description": "By 2030, enhance inclusive and sustainable urbanization and capacity for participatory, integrated and sustainable human settlement planning and management in all countries",
+                "sdg_code": "11",
+                "target_budget": 102454870.9294,
+                "target_expense": 51992715.9906,
+                "total_projects": 71,
+                "total_donors": 54
+            },
+            {
+                "target_id": "11.4",
+                "description": "Strengthen efforts to protect and safeguard the world’s cultural and natural heritage",
+                "sdg_code": "11",
+                "target_budget": 14519900.3807,
+                "target_expense": 4374866.5269,
+                "total_projects": 26,
+                "total_donors": 24
+            },
+            {
+                "target_id": "11.5",
+                "description": "By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations",
+                "sdg_code": "11",
+                "target_budget": 32409599.6141,
+                "target_expense": 16441902.281,
+                "total_projects": 87,
+                "total_donors": 63
+            },
+            {
+                "target_id": "11.6",
+                "description": "By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management",
+                "sdg_code": "11",
+                "target_budget": 26186375.8213,
+                "target_expense": 16279873.3195,
+                "total_projects": 55,
+                "total_donors": 48
+            },
+            {
+                "target_id": "11.7",
+                "description": "By 2030, provide universal access to safe, inclusive and accessible, green and public spaces, in particular for women and children, older persons and persons with disabilities",
+                "sdg_code": "11",
+                "target_budget": 2635594.1442,
+                "target_expense": 1049292.0079,
+                "total_projects": 16,
+                "total_donors": 20
+            },
+            {
+                "target_id": "11.a",
+                "description": "Support positive economic, social and environmental links between urban, peri-urban and rural areas by strengthening national and regional development planning",
+                "sdg_code": "11",
+                "target_budget": 72046462.3702,
+                "target_expense": 24145630.8974,
+                "total_projects": 53,
+                "total_donors": 44
+            },
+            {
+                "target_id": "11.b",
+                "description": "By 2020, substantially increase the number of cities and human settlements adopting and implementing integrated policies and plans towards inclusion, resource efficiency, mitigation and adaptation to climate change, resilience to disasters, and develop and implement, in line with the Sendai Framework for Disaster Risk Reduction 2015-2030, holistic disaster risk management at all levels",
+                "sdg_code": "11",
+                "target_budget": 22656447.2463,
+                "target_expense": 11946059.2789,
+                "total_projects": 65,
+                "total_donors": 55
+            },
+            {
+                "target_id": "11.c",
+                "description": "Support least developed countries, including through financial and technical assistance, in building sustainable and resilient buildings utilizing local materials",
+                "sdg_code": "11",
+                "target_budget": 4413058.9778,
+                "target_expense": 1740426.9911,
+                "total_projects": 9,
+                "total_donors": 12
+            }
+        ],
+        "top_donors": [
+            {
+                "sdg_code": "11",
+                "short_name": "GOB",
+                "org_name": "ARG-GOBIERNO",
+                "total_budget": 1335740624.0,
+                "total_expense": 603309232.0
+            },
+            {
+                "sdg_code": "11",
+                "short_name": "GUA",
+                "org_name": "GOVERNMENT OF GUATEMALA",
+                "total_budget": 507009986.0,
+                "total_expense": 329252952.0
+            },
+            {
+                "sdg_code": "11",
+                "short_name": "EUCOMM",
+                "org_name": "EUROPEAN COMMISSION",
+                "total_budget": 353728575.0,
+                "total_expense": 191049526.0
+            },
+            {
+                "sdg_code": "11",
+                "short_name": "GCF",
+                "org_name": "GREEN CLIMATE FUND",
+                "total_budget": 272661305.0,
+                "total_expense": 123556273.0
+            },
+            {
+                "sdg_code": "11",
+                "short_name": "JPN",
+                "org_name": "GOVERNMENT OF JAPAN",
+                "total_budget": 155518911.0,
+                "total_expense": 123269428.0
+            },
+            {
+                "sdg_code": "11",
+                "short_name": "Serbia",
+                "org_name": "Government of Serbia",
+                "total_budget": 126084876.0,
+                "total_expense": 51558896.0
+            },
+            {
+                "sdg_code": "11",
+                "short_name": "URU-MVOT",
+                "org_name": "URU-Min Vivienda O Territorial",
+                "total_budget": 121205540.0,
+                "total_expense": 79322790.0
+            },
+            {
+                "sdg_code": "11",
+                "short_name": "UNDP",
+                "org_name": "UNITED NATIONS DEVELOPMENT PROGRAMME",
+                "total_budget": 111563225.0,
+                "total_expense": 84369903.0
+            },
+            {
+                "sdg_code": "11",
+                "short_name": "GOB.URU.",
+                "org_name": "URU-GOBIERNO DEL URUGUAY",
+                "total_budget": 104805390.0,
+                "total_expense": 74142854.0
+            },
+            {
+                "sdg_code": "11",
+                "short_name": "SAU",
+                "org_name": "GOVERNMENT OF SAUDI ARABIA",
+                "total_budget": 93035682.0,
+                "total_expense": 59683626.0
+            }
+        ],
+        "top_recipients": [
+            {
+                "sdg_code": "11",
+                "name": "Argentina",
+                "iso3": "ARG",
+                "total_budget": 1335740624.0,
+                "total_expense": 603309232.0
+            },
+            {
+                "sdg_code": "11",
+                "name": "Guatemala",
+                "iso3": "GTM",
+                "total_budget": 509918282.0,
+                "total_expense": 330220872.0
+            },
+            {
+                "sdg_code": "11",
+                "name": "Uruguay",
+                "iso3": "URY",
+                "total_budget": 230299206.0,
+                "total_expense": 156190394.0
+            },
+            {
+                "sdg_code": "11",
+                "name": "Lebanon",
+                "iso3": "LBN",
+                "total_budget": 195243113.0,
+                "total_expense": 106492626.0
+            },
+            {
+                "sdg_code": "11",
+                "name": "Ukraine",
+                "iso3": "UKR",
+                "total_budget": 149659552.0,
+                "total_expense": 109055777.0
+            },
+            {
+                "sdg_code": "11",
+                "name": "Serbia",
+                "iso3": "SRB",
+                "total_budget": 136827464.0,
+                "total_expense": 55219591.0
+            },
+            {
+                "sdg_code": "11",
+                "name": "Syria",
+                "iso3": "SYR",
+                "total_budget": 119349830.0,
+                "total_expense": 56047799.0
+            },
+            {
+                "sdg_code": "11",
+                "name": "Cyprus",
+                "iso3": "CYP",
+                "total_budget": 105385812.0,
+                "total_expense": 49410785.0
+            },
+            {
+                "sdg_code": "11",
+                "name": "Saudi Arabia",
+                "iso3": "SAU",
+                "total_budget": 93035682.0,
+                "total_expense": 59683842.0
+            },
+            {
+                "sdg_code": "11",
+                "name": "Viet Nam",
+                "iso3": "VNM",
+                "total_budget": 77738377.0,
+                "total_expense": 37740764.0
+            }
+        ]
+    },
+    {
+        "sdg_code": "12",
+        "sdg_name": "Responsible consumption and production",
+        "color": "c98226",
+        "total_projects": 324.0,
+        "total_donors": 138.0,
+        "total_budget": 96968889.43,
+        "total_expense": 50320808.42,
+        "percentage": 1.43,
+        "target_details": [
+            {
+                "target_id": "12.1",
+                "description": "Implement the 10-Year Framework of Programmes on Sustainable Consumption and Production Patterns, all countries taking action, with developed countries taking the lead, taking into account the development and capabilities of developing countries",
+                "sdg_code": "12",
+                "target_budget": 3155711.55,
+                "target_expense": 2034235.15,
+                "total_projects": 5,
+                "total_donors": 20
+            },
+            {
+                "target_id": "12.2",
+                "description": "By 2030, achieve the sustainable management and efficient use of natural resources",
+                "sdg_code": "12",
+                "target_budget": 26603475.3389,
+                "target_expense": 13668823.674,
+                "total_projects": 100,
+                "total_donors": 60
+            },
+            {
+                "target_id": "12.3",
+                "description": "By 2030, halve per capita global food waste at the retail and consumer levels and reduce food losses along production and supply chains, including post-harvest losses",
+                "sdg_code": "12",
+                "target_budget": 25547.24,
+                "target_expense": 145208.9589,
+                "total_projects": 4,
+                "total_donors": 7
+            },
+            {
+                "target_id": "12.4",
+                "description": "By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment",
+                "sdg_code": "12",
+                "target_budget": 31874398.7113,
+                "target_expense": 14539807.0637,
+                "total_projects": 119,
+                "total_donors": 53
+            },
+            {
+                "target_id": "12.5",
+                "description": "By 2030, substantially reduce waste generation through prevention, reduction, recycling and reuse",
+                "sdg_code": "12",
+                "target_budget": 11998303.3208,
+                "target_expense": 4021133.4438,
+                "total_projects": 54,
+                "total_donors": 48
+            },
+            {
+                "target_id": "12.6",
+                "description": "Encourage companies, especially large and transnational companies, to adopt sustainable practices and to integrate sustainability information into their reporting cycle",
+                "sdg_code": "12",
+                "target_budget": 10599486.598,
+                "target_expense": 9168589.9874,
+                "total_projects": 21,
+                "total_donors": 24
+            },
+            {
+                "target_id": "12.7",
+                "description": "Promote public procurement practices that are sustainable, in accordance with national policies and priorities",
+                "sdg_code": "12",
+                "target_budget": 4680737.0733,
+                "target_expense": 2585547.4453,
+                "total_projects": 17,
+                "total_donors": 16
+            },
+            {
+                "target_id": "12.8",
+                "description": "By 2030, ensure that people everywhere have the relevant information and awareness for sustainable development and lifestyles in harmony with nature",
+                "sdg_code": "12",
+                "target_budget": 4942930.3987,
+                "target_expense": 2029506.7578,
+                "total_projects": 11,
+                "total_donors": 13
+            },
+            {
+                "target_id": "12.a",
+                "description": "Support developing countries to strengthen their scientific and technological capacity to move towards more sustainable patterns of consumption and production",
+                "sdg_code": "12",
+                "target_budget": 1137636.9348,
+                "target_expense": 307502.9786,
+                "total_projects": 17,
+                "total_donors": 11
+            },
+            {
+                "target_id": "12.b",
+                "description": "Develop and implement tools to monitor sustainable development impacts for sustainable tourism that creates jobs and promotes local culture and products",
+                "sdg_code": "12",
+                "target_budget": 1853596.2928,
+                "target_expense": 805476.2891,
+                "total_projects": 9,
+                "total_donors": 11
+            },
+            {
+                "target_id": "12.c",
+                "description": "Rationalize inefficient fossil-fuel subsidies that encourage wasteful consumption by removing market distortions, in accordance with national circumstances, including by restructuring taxation and phasing out those harmful subsidies, where they exist, to reflect their environmental impacts, taking fully into account the specific needs and conditions of developing countries and minimizing the possible adverse impacts on their development in a manner that protects the poor and the affected communities",
+                "sdg_code": "12",
+                "target_budget": 97065.9678,
+                "target_expense": 1014976.6712,
+                "total_projects": 4,
+                "total_donors": 5
+            }
+        ],
+        "top_donors": [
+            {
+                "sdg_code": "12",
+                "short_name": "GEFTrustee",
+                "org_name": "Global Environment Fund Truste",
+                "total_budget": 301834048.0,
+                "total_expense": 152200047.0
+            },
+            {
+                "sdg_code": "12",
+                "short_name": "GCF",
+                "org_name": "GREEN CLIMATE FUND",
+                "total_budget": 120874025.0,
+                "total_expense": 96766682.0
+            },
+            {
+                "sdg_code": "12",
+                "short_name": "MPU",
+                "org_name": "MONTREAL PROTOCOL",
+                "total_budget": 80415332.0,
+                "total_expense": 26810048.0
+            },
+            {
+                "sdg_code": "12",
+                "short_name": "EUCOMM",
+                "org_name": "EUROPEAN COMMISSION",
+                "total_budget": 59788312.0,
+                "total_expense": 42911729.0
+            },
+            {
+                "sdg_code": "12",
+                "short_name": "UNDP",
+                "org_name": "UNITED NATIONS DEVELOPMENT PROGRAMME",
+                "total_budget": 40024770.0,
+                "total_expense": 37937437.0
+            },
+            {
+                "sdg_code": "12",
+                "short_name": "ITA MAE",
+                "org_name": "Italian Min. for Foreign Affairs",
+                "total_budget": 32392685.0,
+                "total_expense": 25417199.0
+            },
+            {
+                "sdg_code": "12",
+                "short_name": "NORAD",
+                "org_name": "NORWEGIAN AGENCY FOR DEVELOPMENT COOPERATION",
+                "total_budget": 30052227.0,
+                "total_expense": 30017357.0
+            },
+            {
+                "sdg_code": "12",
+                "short_name": "TAR-SWEMFA",
+                "org_name": "Sweden Min for Foreign Affairs",
+                "total_budget": 29717682.0,
+                "total_expense": 29487543.0
+            },
+            {
+                "sdg_code": "12",
+                "short_name": "SECO",
+                "org_name": "State Secretariat for Eco Aff",
+                "total_budget": 27488020.0,
+                "total_expense": 19159660.0
+            },
+            {
+                "sdg_code": "12",
+                "short_name": "JPN",
+                "org_name": "GOVERNMENT OF JAPAN",
+                "total_budget": 27394105.0,
+                "total_expense": 14894509.0
+            }
+        ],
+        "top_recipients": [
+            {
+                "sdg_code": "12",
+                "name": "Moldova, Republic of",
+                "iso3": "MDA",
+                "total_budget": 121418434.0,
+                "total_expense": 107909931.0
+            },
+            {
+                "sdg_code": "12",
+                "name": "Bureau Policy & Prog Support",
+                "iso3": "H70",
+                "total_budget": 82309957.0,
+                "total_expense": 48784291.0
+            },
+            {
+                "sdg_code": "12",
+                "name": "Colombia",
+                "iso3": "COL",
+                "total_budget": 79993067.0,
+                "total_expense": 76272371.0
+            },
+            {
+                "sdg_code": "12",
+                "name": "China",
+                "iso3": "CHN",
+                "total_budget": 74236372.0,
+                "total_expense": 13297483.0
+            },
+            {
+                "sdg_code": "12",
+                "name": "Ecuador",
+                "iso3": "ECU",
+                "total_budget": 59176399.0,
+                "total_expense": 41452394.0
+            },
+            {
+                "sdg_code": "12",
+                "name": "Serbia",
+                "iso3": "SRB",
+                "total_budget": 54954954.0,
+                "total_expense": 26657539.0
+            },
+            {
+                "sdg_code": "12",
+                "name": "Brazil",
+                "iso3": "BRA",
+                "total_budget": 41984783.0,
+                "total_expense": 18592301.0
+            },
+            {
+                "sdg_code": "12",
+                "name": "Syria",
+                "iso3": "SYR",
+                "total_budget": 37468983.0,
+                "total_expense": 16676532.0
+            },
+            {
+                "sdg_code": "12",
+                "name": "Argentina",
+                "iso3": "ARG",
+                "total_budget": 35276308.0,
+                "total_expense": 20152236.0
+            },
+            {
+                "sdg_code": "12",
+                "name": "St. Vincent and the Grenadines",
+                "iso3": "VCT",
+                "total_budget": 30755538.0,
+                "total_expense": 15237270.0
+            }
+        ]
+    },
+    {
+        "sdg_code": "13",
+        "sdg_name": "Climate action",
+        "color": "3f6b36",
+        "total_projects": 1150.0,
+        "total_donors": 282.0,
+        "total_budget": 569232559.55,
+        "total_expense": 261174055.92,
+        "percentage": 8.4,
+        "target_details": [
+            {
+                "target_id": "13.1",
+                "description": "Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries",
+                "sdg_code": "13",
+                "target_budget": 223773906.6986,
+                "target_expense": 106759388.5246,
+                "total_projects": 502,
+                "total_donors": 193
+            },
+            {
+                "target_id": "13.2",
+                "description": "Integrate climate change measures into national policies, strategies and planning",
+                "sdg_code": "13",
+                "target_budget": 219247505.9593,
+                "target_expense": 95222393.9083,
+                "total_projects": 675,
+                "total_donors": 191
+            },
+            {
+                "target_id": "13.3",
+                "description": "Improve education, awareness-raising and human and institutional capacity on climate change mitigation, adaptation, impact reduction and early warning",
+                "sdg_code": "13",
+                "target_budget": 69690079.8968,
+                "target_expense": 35131707.4852,
+                "total_projects": 217,
+                "total_donors": 88
+            },
+            {
+                "target_id": "13.a",
+                "description": "Implement the commitment undertaken by developed-country parties to the United Nations Framework Convention on Climate Change to a goal of mobilizing jointly $100 billion annually by 2020 from all sources to address the needs of developing countries in the context of meaningful mitigation actions and transparency on implementation and fully operationalize the Green Climate Fund through its capitalization as soon as possible",
+                "sdg_code": "13",
+                "target_budget": 14602348.1443,
+                "target_expense": 6391151.2889,
+                "total_projects": 44,
+                "total_donors": 33
+            },
+            {
+                "target_id": "13.b",
+                "description": "Promote mechanisms for raising capacity for effective climate change-related planning and management in least developed countries and small island developing States, including focusing on women, youth and local and marginalized communities",
+                "sdg_code": "13",
+                "target_budget": 41918718.848,
+                "target_expense": 17669414.7139,
+                "total_projects": 126,
+                "total_donors": 54
+            }
+        ],
+        "top_donors": [
+            {
+                "sdg_code": "13",
+                "short_name": "GCF",
+                "org_name": "GREEN CLIMATE FUND",
+                "total_budget": 1191544397.0,
+                "total_expense": 582280410.0
+            },
+            {
+                "sdg_code": "13",
+                "short_name": "GEFTrustee",
+                "org_name": "Global Environment Fund Truste",
+                "total_budget": 893960336.0,
+                "total_expense": 424687898.0
+            },
+            {
+                "sdg_code": "13",
+                "short_name": "EUCOMM",
+                "org_name": "EUROPEAN COMMISSION",
+                "total_budget": 440085455.0,
+                "total_expense": 274783758.0
+            },
+            {
+                "sdg_code": "13",
+                "short_name": "UNDP",
+                "org_name": "UNITED NATIONS DEVELOPMENT PROGRAMME",
+                "total_budget": 401113281.0,
+                "total_expense": 315735331.0
+            },
+            {
+                "sdg_code": "13",
+                "short_name": "JPN",
+                "org_name": "GOVERNMENT OF JAPAN",
+                "total_budget": 399137339.0,
+                "total_expense": 307759656.0
+            },
+            {
+                "sdg_code": "13",
+                "short_name": "GER",
+                "org_name": "GOVERNMENT OF GERMANY",
+                "total_budget": 294801728.0,
+                "total_expense": 157483754.0
+            },
+            {
+                "sdg_code": "13",
+                "short_name": "SIDA",
+                "org_name": "SWEDISH INTERNATIONAL DEVELOPMENT COOPERATION (SIDA)",
+                "total_budget": 222049802.0,
+                "total_expense": 149488218.0
+            },
+            {
+                "sdg_code": "13",
+                "short_name": "MPU",
+                "org_name": "MONTREAL PROTOCOL",
+                "total_budget": 154877547.0,
+                "total_expense": 42703580.0
+            },
+            {
+                "sdg_code": "13",
+                "short_name": "UNV BMZ",
+                "org_name": "FEDERAL MINISTRY FOR ECONOMIC COOPERATION AND DEVELOPMENT",
+                "total_budget": 112611989.0,
+                "total_expense": 49861116.0
+            },
+            {
+                "sdg_code": "13",
+                "short_name": "AF",
+                "org_name": "Adaptation Fund  (AF)",
+                "total_budget": 97260710.0,
+                "total_expense": 28193323.0
+            }
+        ],
+        "top_recipients": [
+            {
+                "sdg_code": "13",
+                "name": "Bureau Policy & Prog Support",
+                "iso3": "H70",
+                "total_budget": 871698422.0,
+                "total_expense": 436411641.0
+            },
+            {
+                "sdg_code": "13",
+                "name": "Afghanistan",
+                "iso3": "AFG",
+                "total_budget": 420734924.0,
+                "total_expense": 385551254.0
+            },
+            {
+                "sdg_code": "13",
+                "name": "Colombia",
+                "iso3": "COL",
+                "total_budget": 227779029.0,
+                "total_expense": 208027638.0
+            },
+            {
+                "sdg_code": "13",
+                "name": "India",
+                "iso3": "IND",
+                "total_budget": 183028812.0,
+                "total_expense": 42273672.0
+            },
+            {
+                "sdg_code": "13",
+                "name": "Democratic Republic of Congo",
+                "iso3": "COD",
+                "total_budget": 164474047.0,
+                "total_expense": 111140859.0
+            },
+            {
+                "sdg_code": "13",
+                "name": "Georgia",
+                "iso3": "GEO",
+                "total_budget": 158905693.0,
+                "total_expense": 41250881.0
+            },
+            {
+                "sdg_code": "13",
+                "name": "Bangladesh",
+                "iso3": "BGD",
+                "total_budget": 149033258.0,
+                "total_expense": 79690147.0
+            },
+            {
+                "sdg_code": "13",
+                "name": "Crisis Bureau",
+                "iso3": "H71",
+                "total_budget": 148126133.0,
+                "total_expense": 70337724.0
+            },
+            {
+                "sdg_code": "13",
+                "name": "China",
+                "iso3": "CHN",
+                "total_budget": 141106025.0,
+                "total_expense": 33338165.0
+            },
+            {
+                "sdg_code": "13",
+                "name": "Guatemala",
+                "iso3": "GTM",
+                "total_budget": 118618000.0,
+                "total_expense": 49398621.0
+            }
+        ]
+    },
+    {
+        "sdg_code": "14",
+        "sdg_name": "Life below water",
+        "color": "0072b4",
+        "total_projects": 208.0,
+        "total_donors": 55.0,
+        "total_budget": 80021886.25,
+        "total_expense": 31030215.76,
+        "percentage": 1.18,
+        "target_details": [
+            {
+                "target_id": "14.1",
+                "description": "By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution",
+                "sdg_code": "14",
+                "target_budget": 5545203.5013,
+                "target_expense": 1812109.5701,
+                "total_projects": 38,
+                "total_donors": 19
+            },
+            {
+                "target_id": "14.2",
+                "description": "By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans",
+                "sdg_code": "14",
+                "target_budget": 42120423.0137,
+                "target_expense": 16657864.1436,
+                "total_projects": 121,
+                "total_donors": 37
+            },
+            {
+                "target_id": "14.3",
+                "description": "Minimize and address the impacts of ocean acidification, including through enhanced scientific cooperation at all levels",
+                "sdg_code": "14",
+                "target_budget": 626455.2936,
+                "target_expense": 197941.1107,
+                "total_projects": 4,
+                "total_donors": 3
+            },
+            {
+                "target_id": "14.4",
+                "description": "By 2020, effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices and implement science-based management plans, in order to restore fish stocks in the shortest time feasible, at least to levels that can produce maximum sustainable yield as determined by their biological characteristics",
+                "sdg_code": "14",
+                "target_budget": 2610181.6933,
+                "target_expense": 1490944.4675,
+                "total_projects": 16,
+                "total_donors": 7
+            },
+            {
+                "target_id": "14.5",
+                "description": "By 2020, conserve at least 10 per cent of coastal and marine areas, consistent with national and international law and based on the best available scientific information",
+                "sdg_code": "14",
+                "target_budget": 10772293.5998,
+                "target_expense": 5202769.1295,
+                "total_projects": 28,
+                "total_donors": 12
+            },
+            {
+                "target_id": "14.6",
+                "description": "By 2020, prohibit certain forms of fisheries subsidies which contribute to overcapacity and overfishing, eliminate subsidies that contribute to illegal, unreported and unregulated fishing and refrain from introducing new such subsidies, recognizing that appropriate and effective special and differential treatment for developing and least developed countries should be an integral part of the World Trade Organization fisheries subsidies negotiation[c]",
+                "sdg_code": "14",
+                "target_budget": 95492.3534,
+                "target_expense": 31894.9942,
+                "total_projects": 1,
+                "total_donors": 1
+            },
+            {
+                "target_id": "14.7",
+                "description": "By 2030, increase the economic benefits to small island developing States and least developed countries from the sustainable use of marine resources, including through sustainable management of fisheries, aquaculture and tourism",
+                "sdg_code": "14",
+                "target_budget": 10446850.5863,
+                "target_expense": 3901631.8998,
+                "total_projects": 24,
+                "total_donors": 11
+            },
+            {
+                "target_id": "14.a",
+                "description": "Increase scientific knowledge, develop research capacity and transfer marine technology, taking into account the Intergovernmental Oceanographic Commission Criteria and Guidelines on the Transfer of Marine Technology, in order to improve ocean health and to enhance the contribution of marine biodiversity to the development of developing countries, in particular small island developing States and least developed countries",
+                "sdg_code": "14",
+                "target_budget": 3158219.897,
+                "target_expense": 780004.6746,
+                "total_projects": 6,
+                "total_donors": 7
+            },
+            {
+                "target_id": "14.b",
+                "description": "Provide access for small-scale artisanal fishers to marine resources and markets",
+                "sdg_code": "14",
+                "target_budget": 1117416.1587,
+                "target_expense": 287964.6562,
+                "total_projects": 10,
+                "total_donors": 9
+            },
+            {
+                "target_id": "14.c",
+                "description": "Enhance the conservation and sustainable use of oceans and their resources by implementing international law as reflected in the United Nations Convention on the Law of the Sea, which provides the legal framework for the conservation and sustainable use of oceans and their resources, as recalled in paragraph 158 of “The future we want”",
+                "sdg_code": "14",
+                "target_budget": 3529350.1483,
+                "target_expense": 667091.1108,
+                "total_projects": 10,
+                "total_donors": 10
+            }
+        ],
+        "top_donors": [
+            {
+                "sdg_code": "14",
+                "short_name": "GEFTrustee",
+                "org_name": "Global Environment Fund Truste",
+                "total_budget": 282475270.0,
+                "total_expense": 131081943.0
+            },
+            {
+                "sdg_code": "14",
+                "short_name": "JPN",
+                "org_name": "GOVERNMENT OF JAPAN",
+                "total_budget": 44602376.0,
+                "total_expense": 10475503.0
+            },
+            {
+                "sdg_code": "14",
+                "short_name": "ITA",
+                "org_name": "GOVERNMENT OF ITALY",
+                "total_budget": 37177882.0,
+                "total_expense": 21357280.0
+            },
+            {
+                "sdg_code": "14",
+                "short_name": "SIDA",
+                "org_name": "SWEDISH INTERNATIONAL DEVELOPMENT COOPERATION (SIDA)",
+                "total_budget": 30350537.0,
+                "total_expense": 16073918.0
+            },
+            {
+                "sdg_code": "14",
+                "short_name": "CLN RVR",
+                "org_name": "CLEAN RIVERS LTD",
+                "total_budget": 26655454.0,
+                "total_expense": 4181408.0
+            },
+            {
+                "sdg_code": "14",
+                "short_name": "MPTF-FCR00",
+                "org_name": "MPTF-Global Fund Coral Reefs",
+                "total_budget": 26375975.0,
+                "total_expense": 22339985.0
+            },
+            {
+                "sdg_code": "14",
+                "short_name": "GCF",
+                "org_name": "GREEN CLIMATE FUND",
+                "total_budget": 26325475.0,
+                "total_expense": 4426320.0
+            },
+            {
+                "sdg_code": "14",
+                "short_name": "SEMARNAT",
+                "org_name": "MEX-SECRETARIA DE MEDIO AMBIEN",
+                "total_budget": 23985185.0,
+                "total_expense": 16315866.0
+            },
+            {
+                "sdg_code": "14",
+                "short_name": "UNDP",
+                "org_name": "UNITED NATIONS DEVELOPMENT PROGRAMME",
+                "total_budget": 20222778.0,
+                "total_expense": 12706083.0
+            },
+            {
+                "sdg_code": "14",
+                "short_name": "UNEP",
+                "org_name": "UNITED NATIONS ENVIRONMENT PROGRAMME",
+                "total_budget": 16786144.0,
+                "total_expense": 3979151.0
+            }
+        ],
+        "top_recipients": [
+            {
+                "sdg_code": "14",
+                "name": "Bureau Policy & Prog Support",
+                "iso3": "H70",
+                "total_budget": 158637949.0,
+                "total_expense": 83295778.0
+            },
+            {
+                "sdg_code": "14",
+                "name": "Indonesia",
+                "iso3": "IDN",
+                "total_budget": 70497116.0,
+                "total_expense": 31524956.0
+            },
+            {
+                "sdg_code": "14",
+                "name": "Barbados",
+                "iso3": "BRB",
+                "total_budget": 47690032.0,
+                "total_expense": 9317241.0
+            },
+            {
+                "sdg_code": "14",
+                "name": "Bangkok Regional Hub",
+                "iso3": "BRC",
+                "total_budget": 32156051.0,
+                "total_expense": 17150796.0
+            },
+            {
+                "sdg_code": "14",
+                "name": "Mauritius",
+                "iso3": "MUS",
+                "total_budget": 32043457.0,
+                "total_expense": 4908634.0
+            },
+            {
+                "sdg_code": "14",
+                "name": "Mexico",
+                "iso3": "MEX",
+                "total_budget": 25308243.0,
+                "total_expense": 17644708.0
+            },
+            {
+                "sdg_code": "14",
+                "name": "Guinea-Bissau",
+                "iso3": "GNB",
+                "total_budget": 25105867.0,
+                "total_expense": 19273102.0
+            },
+            {
+                "sdg_code": "14",
+                "name": "Papua New Guinea",
+                "iso3": "PNG",
+                "total_budget": 23986575.0,
+                "total_expense": 15622336.0
+            },
+            {
+                "sdg_code": "14",
+                "name": "Fiji",
+                "iso3": "FJI",
+                "total_budget": 19755240.0,
+                "total_expense": 8105910.0
+            },
+            {
+                "sdg_code": "14",
+                "name": "Sri Lanka",
+                "iso3": "LKA",
+                "total_budget": 16227502.0,
+                "total_expense": 6709492.0
+            }
+        ]
+    },
+    {
+        "sdg_code": "15",
+        "sdg_name": "Life on Land",
+        "color": "37a740",
+        "total_projects": 631.0,
+        "total_donors": 157.0,
+        "total_budget": 351517750.06,
+        "total_expense": 142946695.08,
+        "percentage": 5.19,
+        "target_details": [
+            {
+                "target_id": "15.1",
+                "description": "By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements",
+                "sdg_code": "15",
+                "target_budget": 98099273.2211,
+                "target_expense": 40074288.1313,
+                "total_projects": 248,
+                "total_donors": 86
+            },
+            {
+                "target_id": "15.2",
+                "description": "By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally",
+                "sdg_code": "15",
+                "target_budget": 109904592.6067,
+                "target_expense": 49350910.3383,
+                "total_projects": 195,
+                "total_donors": 85
+            },
+            {
+                "target_id": "15.3",
+                "description": "By 2030, combat desertification, restore degraded land and soil, including land affected by desertification, drought and floods, and strive to achieve a land degradation-neutral world",
+                "sdg_code": "15",
+                "target_budget": 17531406.8655,
+                "target_expense": 7083839.0742,
+                "total_projects": 62,
+                "total_donors": 24
+            },
+            {
+                "target_id": "15.4",
+                "description": "By 2030, ensure the conservation of mountain ecosystems, including their biodiversity, in order to enhance their capacity to provide benefits that are essential for sustainable development",
+                "sdg_code": "15",
+                "target_budget": 16541026.0897,
+                "target_expense": 7236831.8316,
+                "total_projects": 71,
+                "total_donors": 32
+            },
+            {
+                "target_id": "15.5",
+                "description": "Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species",
+                "sdg_code": "15",
+                "target_budget": 24255084.068,
+                "target_expense": 9073225.2247,
+                "total_projects": 102,
+                "total_donors": 39
+            },
+            {
+                "target_id": "15.6",
+                "description": "Promote fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to such resources, as internationally agreed",
+                "sdg_code": "15",
+                "target_budget": 4310350.7242,
+                "target_expense": 1415591.9965,
+                "total_projects": 17,
+                "total_donors": 18
+            },
+            {
+                "target_id": "15.7",
+                "description": "Take urgent action to end poaching and trafficking of protected species of flora and fauna and address both demand and supply of illegal wildlife products",
+                "sdg_code": "15",
+                "target_budget": 2346560.1485,
+                "target_expense": 1226497.2174,
+                "total_projects": 13,
+                "total_donors": 6
+            },
+            {
+                "target_id": "15.8",
+                "description": "By 2020, introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control or eradicate the priority species",
+                "sdg_code": "15",
+                "target_budget": 488406.7251,
+                "target_expense": 59830.0097,
+                "total_projects": 2,
+                "total_donors": 3
+            },
+            {
+                "target_id": "15.9",
+                "description": "By 2020, integrate ecosystem and biodiversity values into national and local planning, development processes, poverty reduction strategies and accounts",
+                "sdg_code": "15",
+                "target_budget": 39185674.1426,
+                "target_expense": 10621080.9825,
+                "total_projects": 77,
+                "total_donors": 34
+            },
+            {
+                "target_id": "15.a",
+                "description": "Mobilize and significantly increase financial resources from all sources to conserve and sustainably use biodiversity and ecosystems",
+                "sdg_code": "15",
+                "target_budget": 31753233.6571,
+                "target_expense": 13979430.1143,
+                "total_projects": 94,
+                "total_donors": 24
+            },
+            {
+                "target_id": "15.b",
+                "description": "Mobilize significant resources from all sources and at all levels to finance sustainable forest management and provide adequate incentives to developing countries to advance such management, including for conservation and reforestation",
+                "sdg_code": "15",
+                "target_budget": 5423246.75,
+                "target_expense": 1569981.2802,
+                "total_projects": 19,
+                "total_donors": 14
+            },
+            {
+                "target_id": "15.c",
+                "description": "Enhance global support for efforts to combat poaching and trafficking of protected species, including by increasing the capacity of local communities to pursue sustainable livelihood opportunities",
+                "sdg_code": "15",
+                "target_budget": 1678895.0662,
+                "target_expense": 1255188.8808,
+                "total_projects": 11,
+                "total_donors": 5
+            }
+        ],
+        "top_donors": [
+            {
+                "sdg_code": "15",
+                "short_name": "GEFTrustee",
+                "org_name": "Global Environment Fund Truste",
+                "total_budget": 1569368924.0,
+                "total_expense": 852528679.0
+            },
+            {
+                "sdg_code": "15",
+                "short_name": "GCF",
+                "org_name": "GREEN CLIMATE FUND",
+                "total_budget": 1300140745.0,
+                "total_expense": 421649433.0
+            },
+            {
+                "sdg_code": "15",
+                "short_name": "UNDP",
+                "org_name": "UNITED NATIONS DEVELOPMENT PROGRAMME",
+                "total_budget": 177883794.0,
+                "total_expense": 140873234.0
+            },
+            {
+                "sdg_code": "15",
+                "short_name": "GER",
+                "org_name": "GOVERNMENT OF GERMANY",
+                "total_budget": 157530396.0,
+                "total_expense": 94028557.0
+            },
+            {
+                "sdg_code": "15",
+                "short_name": "MPTF-AFI00",
+                "org_name": "MPTF-Cntrl African Forest init",
+                "total_budget": 106526592.0,
+                "total_expense": 33208897.0
+            },
+            {
+                "sdg_code": "15",
+                "short_name": "GOB",
+                "org_name": "ARG-GOBIERNO",
+                "total_budget": 89035551.0,
+                "total_expense": 43073187.0
+            },
+            {
+                "sdg_code": "15",
+                "short_name": "JPN",
+                "org_name": "GOVERNMENT OF JAPAN",
+                "total_budget": 72377460.0,
+                "total_expense": 74832858.0
+            },
+            {
+                "sdg_code": "15",
+                "short_name": "AF",
+                "org_name": "Adaptation Fund  (AF)",
+                "total_budget": 67654071.0,
+                "total_expense": 21045485.0
+            },
+            {
+                "sdg_code": "15",
+                "short_name": "MPTF(JPAA)",
+                "org_name": "MPTFO AS AA FOR JP PASS THROUGH",
+                "total_budget": 60634730.0,
+                "total_expense": 40098840.0
+            },
+            {
+                "sdg_code": "15",
+                "short_name": "SEMARNAT",
+                "org_name": "MEX-SECRETARIA DE MEDIO AMBIEN",
+                "total_budget": 49918510.0,
+                "total_expense": 33017292.0
+            }
+        ],
+        "top_recipients": [
+            {
+                "sdg_code": "15",
+                "name": "Brazil",
+                "iso3": "BRA",
+                "total_budget": 1072676388.0,
+                "total_expense": 242874144.0
+            },
+            {
+                "sdg_code": "15",
+                "name": "Bureau Policy & Prog Support",
+                "iso3": "H70",
+                "total_budget": 387406734.0,
+                "total_expense": 204446892.0
+            },
+            {
+                "sdg_code": "15",
+                "name": "Bureau for Dev. Policy",
+                "iso3": "H21",
+                "total_budget": 233088891.0,
+                "total_expense": 203101470.0
+            },
+            {
+                "sdg_code": "15",
+                "name": "Argentina",
+                "iso3": "ARG",
+                "total_budget": 186963634.0,
+                "total_expense": 51961965.0
+            },
+            {
+                "sdg_code": "15",
+                "name": "Colombia",
+                "iso3": "COL",
+                "total_budget": 186171888.0,
+                "total_expense": 157612231.0
+            },
+            {
+                "sdg_code": "15",
+                "name": "Afghanistan",
+                "iso3": "AFG",
+                "total_budget": 138217409.0,
+                "total_expense": 125546501.0
+            },
+            {
+                "sdg_code": "15",
+                "name": "Democratic Republic of Congo",
+                "iso3": "COD",
+                "total_budget": 100173552.0,
+                "total_expense": 70875146.0
+            },
+            {
+                "sdg_code": "15",
+                "name": "St. Vincent and the Grenadines",
+                "iso3": "VCT",
+                "total_budget": 82014768.0,
+                "total_expense": 40619184.0
+            },
+            {
+                "sdg_code": "15",
+                "name": "Mexico",
+                "iso3": "MEX",
+                "total_budget": 78106871.0,
+                "total_expense": 47338096.0
+            },
+            {
+                "sdg_code": "15",
+                "name": "Mozambique",
+                "iso3": "MOZ",
+                "total_budget": 73359516.0,
+                "total_expense": 55917881.0
+            }
+        ]
+    },
+    {
+        "sdg_code": "16",
+        "sdg_name": "Peace, justice, and strong institutions",
+        "color": "004b80",
+        "total_projects": 1607.0,
+        "total_donors": 474.0,
+        "total_budget": 1419616340.58,
+        "total_expense": 775600994.02,
+        "percentage": 20.96,
+        "target_details": [
+            {
+                "target_id": "16.1",
+                "description": "Significantly reduce all forms of violence and related death rates everywhere",
+                "sdg_code": "16",
+                "target_budget": 127979892.2407,
+                "target_expense": 92735977.5414,
+                "total_projects": 197,
+                "total_donors": 105
+            },
+            {
+                "target_id": "16.10",
+                "description": "Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreements",
+                "sdg_code": "16",
+                "target_budget": 22183313.0232,
+                "target_expense": 12453548.2885,
+                "total_projects": 98,
+                "total_donors": 71
+            },
+            {
+                "target_id": "16.2",
+                "description": "End abuse, exploitation, trafficking and all forms of violence against and torture of children",
+                "sdg_code": "16",
+                "target_budget": 5244497.5746,
+                "target_expense": 1576850.8596,
+                "total_projects": 14,
+                "total_donors": 24
+            },
+            {
+                "target_id": "16.3",
+                "description": "Promote the rule of law at the national and international levels and ensure equal access to justice for all",
+                "sdg_code": "16",
+                "target_budget": 324270572.086,
+                "target_expense": 194378522.3795,
+                "total_projects": 407,
+                "total_donors": 161
+            },
+            {
+                "target_id": "16.4",
+                "description": "By 2030, significantly reduce illicit financial and arms flows, strengthen the recovery and return of stolen assets and combat all forms of organized crime",
+                "sdg_code": "16",
+                "target_budget": 18136316.3951,
+                "target_expense": 9932548.5998,
+                "total_projects": 54,
+                "total_donors": 39
+            },
+            {
+                "target_id": "16.5",
+                "description": "Substantially reduce corruption and bribery in all their forms",
+                "sdg_code": "16",
+                "target_budget": 28624069.7634,
+                "target_expense": 18385264.9373,
+                "total_projects": 96,
+                "total_donors": 58
+            },
+            {
+                "target_id": "16.6",
+                "description": "Develop effective, accountable and transparent institutions at all levels",
+                "sdg_code": "16",
+                "target_budget": 522293843.2996,
+                "target_expense": 261959778.1451,
+                "total_projects": 820,
+                "total_donors": 337
+            },
+            {
+                "target_id": "16.7",
+                "description": "Ensure responsive, inclusive, participatory and representative decision-making at all levels",
+                "sdg_code": "16",
+                "target_budget": 164309773.0237,
+                "target_expense": 85729066.7144,
+                "total_projects": 573,
+                "total_donors": 250
+            },
+            {
+                "target_id": "16.8",
+                "description": "Broaden and strengthen the participation of developing countries in the institutions of global governance",
+                "sdg_code": "16",
+                "target_budget": 35497966.9344,
+                "target_expense": 17245325.1044,
+                "total_projects": 44,
+                "total_donors": 51
+            },
+            {
+                "target_id": "16.9",
+                "description": "By 2030, provide legal identity for all, including birth registration",
+                "sdg_code": "16",
+                "target_budget": 32693534.2469,
+                "target_expense": 5672254.4548,
+                "total_projects": 25,
+                "total_donors": 35
+            },
+            {
+                "target_id": "16.a",
+                "description": "Strengthen relevant national institutions, including through international cooperation, for building capacity at all levels, in particular in developing countries, to prevent violence and combat terrorism and crime",
+                "sdg_code": "16",
+                "target_budget": 126023980.1043,
+                "target_expense": 69026078.1666,
+                "total_projects": 218,
+                "total_donors": 108
+            },
+            {
+                "target_id": "16.b",
+                "description": "Promote and enforce non-discriminatory laws and policies for sustainable development",
+                "sdg_code": "16",
+                "target_budget": 12358581.884,
+                "target_expense": 6505778.8237,
+                "total_projects": 54,
+                "total_donors": 54
+            }
+        ],
+        "top_donors": [
+            {
+                "sdg_code": "16",
+                "short_name": "GOB",
+                "org_name": "ARG-GOBIERNO",
+                "total_budget": 2510923280.0,
+                "total_expense": 1226523596.0
+            },
+            {
+                "sdg_code": "16",
+                "short_name": "UNDP",
+                "org_name": "UNITED NATIONS DEVELOPMENT PROGRAMME",
+                "total_budget": 1141215496.0,
+                "total_expense": 802910917.0
+            },
+            {
+                "sdg_code": "16",
+                "short_name": "EUCOMM",
+                "org_name": "EUROPEAN COMMISSION",
+                "total_budget": 1008758432.0,
+                "total_expense": 635598587.0
+            },
+            {
+                "sdg_code": "16",
+                "short_name": "JPN",
+                "org_name": "GOVERNMENT OF JAPAN",
+                "total_budget": 857122640.0,
+                "total_expense": 819266949.0
+            },
+            {
+                "sdg_code": "16",
+                "short_name": "GUA",
+                "org_name": "GOVERNMENT OF GUATEMALA",
+                "total_budget": 754077366.0,
+                "total_expense": 472129439.0
+            },
+            {
+                "sdg_code": "16",
+                "short_name": "KOICA",
+                "org_name": "KOREA INTERN. COOPERATION AGENCY",
+                "total_budget": 500719286.0,
+                "total_expense": 215371207.0
+            },
+            {
+                "sdg_code": "16",
+                "short_name": "NET",
+                "org_name": "GOVERNMENT OF NETHERLANDS",
+                "total_budget": 410376161.0,
+                "total_expense": 256747069.0
+            },
+            {
+                "sdg_code": "16",
+                "short_name": "GER",
+                "org_name": "GOVERNMENT OF GERMANY",
+                "total_budget": 359474200.0,
+                "total_expense": 258097193.0
+            },
+            {
+                "sdg_code": "16",
+                "short_name": "GOBIERNO",
+                "org_name": "PAR-GOBIERNO DEL PARAGUAY",
+                "total_budget": 352566605.0,
+                "total_expense": 224381258.0
+            },
+            {
+                "sdg_code": "16",
+                "short_name": "DEN",
+                "org_name": "GOVERNMENT OF DENMARK",
+                "total_budget": 344130156.0,
+                "total_expense": 182382136.0
+            }
+        ],
+        "top_recipients": [
+            {
+                "sdg_code": "16",
+                "name": "Argentina",
+                "iso3": "ARG",
+                "total_budget": 2523836655.0,
+                "total_expense": 1226782308.0
+            },
+            {
+                "sdg_code": "16",
+                "name": "Ukraine",
+                "iso3": "UKR",
+                "total_budget": 1022524788.0,
+                "total_expense": 839678335.0
+            },
+            {
+                "sdg_code": "16",
+                "name": "Guatemala",
+                "iso3": "GTM",
+                "total_budget": 787200563.0,
+                "total_expense": 490957278.0
+            },
+            {
+                "sdg_code": "16",
+                "name": "Regional Center - Addis Ababa",
+                "iso3": "R12",
+                "total_budget": 509071747.0,
+                "total_expense": 250391182.0
+            },
+            {
+                "sdg_code": "16",
+                "name": "Colombia",
+                "iso3": "COL",
+                "total_budget": 493294351.0,
+                "total_expense": 286095452.0
+            },
+            {
+                "sdg_code": "16",
+                "name": "Ethiopia",
+                "iso3": "ETH",
+                "total_budget": 471082837.0,
+                "total_expense": 347332291.0
+            },
+            {
+                "sdg_code": "16",
+                "name": "Crisis Bureau",
+                "iso3": "H71",
+                "total_budget": 420434314.0,
+                "total_expense": 292196427.0
+            },
+            {
+                "sdg_code": "16",
+                "name": "Brazil",
+                "iso3": "BRA",
+                "total_budget": 380839513.0,
+                "total_expense": 147536607.0
+            },
+            {
+                "sdg_code": "16",
+                "name": "Paraguay",
+                "iso3": "PRY",
+                "total_budget": 364404490.0,
+                "total_expense": 225628721.0
+            },
+            {
+                "sdg_code": "16",
+                "name": "Lebanon",
+                "iso3": "LBN",
+                "total_budget": 304275334.0,
+                "total_expense": 126536766.0
+            }
+        ]
+    },
+    {
+        "sdg_code": "17",
+        "sdg_name": "Partnerships for the goals",
+        "color": "17305d",
+        "total_projects": 701.0,
+        "total_donors": 363.0,
+        "total_budget": 370947198.99,
+        "total_expense": 190883759.68,
+        "percentage": 5.48,
+        "target_details": [
+            {
+                "target_id": "17.1",
+                "description": "Strengthen domestic resource mobilization, including through international support to developing countries, to improve domestic capacity for tax and other revenue collection",
+                "sdg_code": "17",
+                "target_budget": 23584761.8535,
+                "target_expense": 12696858.5122,
+                "total_projects": 82,
+                "total_donors": 59
+            },
+            {
+                "target_id": "17.10",
+                "description": "Promote a universal, rules-based, open, non‑discriminatory and equitable multilateral trading system under the World Trade Organization, including through the conclusion of negotiations under its Doha Development Agenda",
+                "sdg_code": "17",
+                "target_budget": 864869.5625,
+                "target_expense": 437417.45,
+                "total_projects": 3,
+                "total_donors": 4
+            },
+            {
+                "target_id": "17.11",
+                "description": "Significantly increase the exports of developing countries, in particular with a view to doubling the least developed countries’ share of global exports by 2020",
+                "sdg_code": "17",
+                "target_budget": 1887209.0388,
+                "target_expense": 605941.2643,
+                "total_projects": 8,
+                "total_donors": 4
+            },
+            {
+                "target_id": "17.12",
+                "description": "Realize timely implementation of duty-free and quota-free market access on a lasting basis for all least developed countries, consistent with World Trade Organization decisions, including by ensuring that preferential rules of origin applicable to imports from least developed countries are transparent and simple, and contribute to facilitating market access",
+                "sdg_code": "17",
+                "target_budget": 18710.75,
+                "target_expense": 7242.25,
+                "total_projects": 1,
+                "total_donors": 3
+            },
+            {
+                "target_id": "17.13",
+                "description": "Enhance global macroeconomic stability, including through policy coordination and policy coherence",
+                "sdg_code": "17",
+                "target_budget": 1048430.2228,
+                "target_expense": 641578.4614,
+                "total_projects": 12,
+                "total_donors": 10
+            },
+            {
+                "target_id": "17.14",
+                "description": "Enhance policy coherence for sustainable development",
+                "sdg_code": "17",
+                "target_budget": 14083932.9501,
+                "target_expense": 8649625.3032,
+                "total_projects": 93,
+                "total_donors": 70
+            },
+            {
+                "target_id": "17.15",
+                "description": "Respect each country’s policy space and leadership to establish and implement policies for poverty eradication and sustainable development",
+                "sdg_code": "17",
+                "target_budget": 54557.2,
+                "target_expense": 51210.0,
+                "total_projects": 1,
+                "total_donors": 3
+            },
+            {
+                "target_id": "17.16",
+                "description": "Enhance the Global Partnership for Sustainable Development, complemented by multi-stakeholder partnerships that mobilize and share knowledge, expertise, technology and financial resources, to support the achievement of the Sustainable Development Goals in all countries, in particular developing countries",
+                "sdg_code": "17",
+                "target_budget": 49699395.9441,
+                "target_expense": 27897506.2721,
+                "total_projects": 178,
+                "total_donors": 142
+            },
+            {
+                "target_id": "17.17",
+                "description": "Encourage and promote effective public, public-private and civil society partnerships, building on the experience and resourcing strategies of partnerships",
+                "sdg_code": "17",
+                "target_budget": 26017325.0468,
+                "target_expense": 14394974.3201,
+                "total_projects": 96,
+                "total_donors": 80
+            },
+            {
+                "target_id": "17.18",
+                "description": "By 2020, enhance capacity-building support to developing countries, including for least developed countries and small island developing States, to increase significantly the availability of high-quality, timely and reliable data disaggregated by income, gender, age, race, ethnicity, migratory status, disability, geographic location and other characteristics relevant in national contexts",
+                "sdg_code": "17",
+                "target_budget": 73559278.5401,
+                "target_expense": 42120425.6152,
+                "total_projects": 120,
+                "total_donors": 95
+            },
+            {
+                "target_id": "17.19",
+                "description": "By 2030, build on existing initiatives to develop measurements of progress on sustainable development that complement gross domestic product, and support statistical capacity-building in developing countries",
+                "sdg_code": "17",
+                "target_budget": 6868719.1694,
+                "target_expense": 2904014.6079,
+                "total_projects": 21,
+                "total_donors": 24
+            },
+            {
+                "target_id": "17.2",
+                "description": "Developed countries to implement fully their official development assistance commitments, including the commitment by many developed countries to achieve the target of 0.7 per cent of gross national income for official development assistance (ODA/GNI) to developing countries and 0.15 to 0.20 per cent of ODA/GNI to least developed countries; ODA providers are encouraged to consider setting a target to provide at least 0.20 per cent of ODA/GNI to least developed countries",
+                "sdg_code": "17",
+                "target_budget": 1844545.6583,
+                "target_expense": 753469.8436,
+                "total_projects": 10,
+                "total_donors": 9
+            },
+            {
+                "target_id": "17.3",
+                "description": "Mobilize additional financial resources for developing countries from multiple sources",
+                "sdg_code": "17",
+                "target_budget": 59865680.5454,
+                "target_expense": 23652333.1795,
+                "total_projects": 87,
+                "total_donors": 87
+            },
+            {
+                "target_id": "17.4",
+                "description": "Assist developing countries in attaining long-term debt sustainability through coordinated policies aimed at fostering debt financing, debt relief and debt restructuring, as appropriate, and address the external debt of highly indebted poor countries to reduce debt distress",
+                "sdg_code": "17",
+                "target_budget": 1580969.1851,
+                "target_expense": 755875.9535,
+                "total_projects": 14,
+                "total_donors": 15
+            },
+            {
+                "target_id": "17.5",
+                "description": "Adopt and implement investment promotion regimes for least developed countries",
+                "sdg_code": "17",
+                "target_budget": 2206279.842,
+                "target_expense": 1282530.3179,
+                "total_projects": 17,
+                "total_donors": 16
+            },
+            {
+                "target_id": "17.6",
+                "description": "Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation and enhance knowledge-sharing on mutually agreed terms, including through improved coordination among existing mechanisms, in particular at the United Nations level, and through a global technology facilitation mechanism",
+                "sdg_code": "17",
+                "target_budget": 20661222.483,
+                "target_expense": 10071860.0911,
+                "total_projects": 64,
+                "total_donors": 54
+            },
+            {
+                "target_id": "17.7",
+                "description": "Promote the development, transfer, dissemination and diffusion of environmentally sound technologies to developing countries on favourable terms, including on concessional and preferential terms, as mutually agreed",
+                "sdg_code": "17",
+                "target_budget": 6815828.5123,
+                "target_expense": 3554312.9137,
+                "total_projects": 15,
+                "total_donors": 12
+            },
+            {
+                "target_id": "17.8",
+                "description": "Fully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries by 2017 and enhance the use of enabling technology, in particular information and communications technology",
+                "sdg_code": "17",
+                "target_budget": 2459420.8581,
+                "target_expense": 1350610.6743,
+                "total_projects": 21,
+                "total_donors": 22
+            },
+            {
+                "target_id": "17.9",
+                "description": "Enhance international support for implementing effective and targeted capacity-building in developing countries to support national plans to implement all the Sustainable Development Goals, including through North-South, South-South and triangular cooperation",
+                "sdg_code": "17",
+                "target_budget": 77826061.626,
+                "target_expense": 39055972.6475,
+                "total_projects": 167,
+                "total_donors": 153
+            }
+        ],
+        "top_donors": [
+            {
+                "sdg_code": "17",
+                "short_name": "UNDP",
+                "org_name": "UNITED NATIONS DEVELOPMENT PROGRAMME",
+                "total_budget": 773918907.0,
+                "total_expense": 535625521.0
+            },
+            {
+                "sdg_code": "17",
+                "short_name": "GFATM",
+                "org_name": "The Global Fund to Fight AIDS, Tuberculosis and Malaria",
+                "total_budget": 336063673.0,
+                "total_expense": 142447789.0
+            },
+            {
+                "sdg_code": "17",
+                "short_name": "GOVTDMI",
+                "org_name": "BAR-GOVERNMENT OF DOMINICA",
+                "total_budget": 323906400.0,
+                "total_expense": 176989686.0
+            },
+            {
+                "sdg_code": "17",
+                "short_name": "CABEI",
+                "org_name": "CENTRAL AMER BANK FOR EOCNOMIC INTEGRATION",
+                "total_budget": 247547328.0,
+                "total_expense": 187628.0
+            },
+            {
+                "sdg_code": "17",
+                "short_name": "GER",
+                "org_name": "GOVERNMENT OF GERMANY",
+                "total_budget": 211525527.0,
+                "total_expense": 113699499.0
+            },
+            {
+                "sdg_code": "17",
+                "short_name": "JPN",
+                "org_name": "GOVERNMENT OF JAPAN",
+                "total_budget": 189238955.0,
+                "total_expense": 200077360.0
+            },
+            {
+                "sdg_code": "17",
+                "short_name": "EUCOMM",
+                "org_name": "EUROPEAN COMMISSION",
+                "total_budget": 180872244.0,
+                "total_expense": 114060498.0
+            },
+            {
+                "sdg_code": "17",
+                "short_name": "EGY-MSMEDA",
+                "org_name": "Micro Sml & Med Ent Dev Agency",
+                "total_budget": 160875010.0,
+                "total_expense": 101016080.0
+            },
+            {
+                "sdg_code": "17",
+                "short_name": "MCIT",
+                "org_name": "EGY-MINISTRY OF COMMUNICATION",
+                "total_budget": 135719252.0,
+                "total_expense": 72025158.0
+            },
+            {
+                "sdg_code": "17",
+                "short_name": "BRA-IBA",
+                "org_name": "BRA-Instituto Bras. Do Algodao",
+                "total_budget": 115054030.0,
+                "total_expense": 95022242.0
+            }
+        ],
+        "top_recipients": [
+            {
+                "sdg_code": "17",
+                "name": "Bureau Policy & Prog Support",
+                "iso3": "H70",
+                "total_budget": 644779997.0,
+                "total_expense": 321457598.0
+            },
+            {
+                "sdg_code": "17",
+                "name": "Egypt",
+                "iso3": "EGY",
+                "total_budget": 350690558.0,
+                "total_expense": 190228383.0
+            },
+            {
+                "sdg_code": "17",
+                "name": "Cuba",
+                "iso3": "CUB",
+                "total_budget": 339841698.0,
+                "total_expense": 18525367.0
+            },
+            {
+                "sdg_code": "17",
+                "name": "Dominica",
+                "iso3": "DMA",
+                "total_budget": 323906400.0,
+                "total_expense": 176989686.0
+            },
+            {
+                "sdg_code": "17",
+                "name": "Brazil",
+                "iso3": "BRA",
+                "total_budget": 316479988.0,
+                "total_expense": 197685267.0
+            },
+            {
+                "sdg_code": "17",
+                "name": "Zimbabwe",
+                "iso3": "ZWE",
+                "total_budget": 235241138.0,
+                "total_expense": 58079680.0
+            },
+            {
+                "sdg_code": "17",
+                "name": "Afghanistan",
+                "iso3": "AFG",
+                "total_budget": 180197951.0,
+                "total_expense": 152350586.0
+            },
+            {
+                "sdg_code": "17",
+                "name": "Democratic Republic of Congo",
+                "iso3": "COD",
+                "total_budget": 162650574.0,
+                "total_expense": 97511391.0
+            },
+            {
+                "sdg_code": "17",
+                "name": "Ukraine",
+                "iso3": "UKR",
+                "total_budget": 119935895.0,
+                "total_expense": 117584993.0
+            },
+            {
+                "sdg_code": "17",
+                "name": "Uganda",
+                "iso3": "UGA",
+                "total_budget": 93577567.0,
+                "total_expense": 74047823.0
+            }
+        ]
+    },
+    {
+        "sdg_code": "2",
+        "sdg_name": "Zero hunger",
+        "color": "cd9525",
+        "total_projects": 168.0,
+        "total_donors": 86.0,
+        "total_budget": 146800081.02,
+        "total_expense": 84884137.7,
+        "percentage": 2.17,
+        "target_details": [
+            {
+                "target_id": "2.1",
+                "description": "By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round",
+                "sdg_code": "2",
+                "target_budget": 33322747.8005,
+                "target_expense": 21451373.8152,
+                "total_projects": 34,
+                "total_donors": 30
+            },
+            {
+                "target_id": "2.2",
+                "description": "By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons",
+                "sdg_code": "2",
+                "target_budget": 25087158.8,
+                "target_expense": 16637567.78,
+                "total_projects": 3,
+                "total_donors": 4
+            },
+            {
+                "target_id": "2.3",
+                "description": "By 2030, double the agricultural productivity and incomes of small-scale food producers, in particular women, indigenous peoples, family farmers, pastoralists and fishers, including through secure and equal access to land, other productive resources and inputs, knowledge, financial services, markets and opportunities for value addition and non-farm employment",
+                "sdg_code": "2",
+                "target_budget": 21649818.8371,
+                "target_expense": 14505287.5008,
+                "total_projects": 56,
+                "total_donors": 45
+            },
+            {
+                "target_id": "2.4",
+                "description": "By 2030, ensure sustainable food production systems and implement resilient agricultural practices that increase productivity and production, that help maintain ecosystems, that strengthen capacity for adaptation to climate change, extreme weather, drought, flooding and other disasters and that progressively improve land and soil quality",
+                "sdg_code": "2",
+                "target_budget": 60162387.325,
+                "target_expense": 28719370.8891,
+                "total_projects": 89,
+                "total_donors": 54
+            },
+            {
+                "target_id": "2.5",
+                "description": "By 2020, maintain the genetic diversity of seeds, cultivated plants and farmed and domesticated animals and their related wild species, including through soundly managed and diversified seed and plant banks at the national, regional and international levels, and promote access to and fair and equitable sharing of benefits arising from the utilization of genetic resources and associated traditional knowledge, as internationally agreed",
+                "sdg_code": "2",
+                "target_budget": 2951320.9708,
+                "target_expense": 1711558.4348,
+                "total_projects": 7,
+                "total_donors": 7
+            },
+            {
+                "target_id": "2.a",
+                "description": "Increase investment, including through enhanced international cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in order to enhance agricultural productive capacity in developing countries, in particular least developed countries",
+                "sdg_code": "2",
+                "target_budget": 3166851.9912,
+                "target_expense": 1719801.5688,
+                "total_projects": 7,
+                "total_donors": 6
+            },
+            {
+                "target_id": "2.b",
+                "description": "Correct and prevent trade restrictions and distortions in world agricultural markets, including through the parallel elimination of all forms of agricultural export subsidies and all export measures with equivalent effect, in accordance with the mandate of the Doha Development Round",
+                "sdg_code": "2",
+                "target_budget": 47624.2998,
+                "target_expense": 40838.7294,
+                "total_projects": 1,
+                "total_donors": 1
+            },
+            {
+                "target_id": "2.c",
+                "description": "Adopt measures to ensure the proper functioning of food commodity markets and their derivatives and facilitate timely access to market information, including on food reserves, in order to help limit extreme food price volatility",
+                "sdg_code": "2",
+                "target_budget": 412171.0004,
+                "target_expense": 98338.9822,
+                "total_projects": 3,
+                "total_donors": 2
+            }
+        ],
+        "top_donors": [
+            {
+                "sdg_code": "2",
+                "short_name": "GOB",
+                "org_name": "ARG-GOBIERNO",
+                "total_budget": 750000000.0,
+                "total_expense": 498294780.0
+            },
+            {
+                "sdg_code": "2",
+                "short_name": "TUR",
+                "org_name": "GOVERNMENT OF TURKIYE",
+                "total_budget": 162178200.0,
+                "total_expense": 101584518.0
+            },
+            {
+                "sdg_code": "2",
+                "short_name": "KFW",
+                "org_name": "KREDITANSTALT FUR WIEDERAUFBAU",
+                "total_budget": 131446370.0,
+                "total_expense": 86539335.0
+            },
+            {
+                "sdg_code": "2",
+                "short_name": "EUCOMM",
+                "org_name": "EUROPEAN COMMISSION",
+                "total_budget": 110361267.0,
+                "total_expense": 105087688.0
+            },
+            {
+                "sdg_code": "2",
+                "short_name": "GEFTrustee",
+                "org_name": "Global Environment Fund Truste",
+                "total_budget": 76985206.0,
+                "total_expense": 44502146.0
+            },
+            {
+                "sdg_code": "2",
+                "short_name": "IDA",
+                "org_name": "Intl Dev Association (IDA)",
+                "total_budget": 72298650.0,
+                "total_expense": 33074664.0
+            },
+            {
+                "sdg_code": "2",
+                "short_name": "UNDP",
+                "org_name": "UNITED NATIONS DEVELOPMENT PROGRAMME",
+                "total_budget": 64008103.0,
+                "total_expense": 62400188.0
+            },
+            {
+                "sdg_code": "2",
+                "short_name": "GCF",
+                "org_name": "GREEN CLIMATE FUND",
+                "total_budget": 36786513.0,
+                "total_expense": 29855404.0
+            },
+            {
+                "sdg_code": "2",
+                "short_name": "MFA NORWAY",
+                "org_name": "NOR - MINISTRY OF FOREIGN AFFAIRS",
+                "total_budget": 35061222.0,
+                "total_expense": 19586439.0
+            },
+            {
+                "sdg_code": "2",
+                "short_name": "JPN",
+                "org_name": "GOVERNMENT OF JAPAN",
+                "total_budget": 31496269.0,
+                "total_expense": 12507421.0
+            }
+        ],
+        "top_recipients": [
+            {
+                "sdg_code": "2",
+                "name": "Argentina",
+                "iso3": "ARG",
+                "total_budget": 750000000.0,
+                "total_expense": 498294780.0
+            },
+            {
+                "sdg_code": "2",
+                "name": "Turkiye",
+                "iso3": "TUR",
+                "total_budget": 163400340.0,
+                "total_expense": 101751318.0
+            },
+            {
+                "sdg_code": "2",
+                "name": "Lebanon",
+                "iso3": "LBN",
+                "total_budget": 128742269.0,
+                "total_expense": 79020531.0
+            },
+            {
+                "sdg_code": "2",
+                "name": "Yemen",
+                "iso3": "YEM",
+                "total_budget": 76509897.0,
+                "total_expense": 35374534.0
+            },
+            {
+                "sdg_code": "2",
+                "name": "Cuba",
+                "iso3": "CUB",
+                "total_budget": 63423092.0,
+                "total_expense": 43017246.0
+            },
+            {
+                "sdg_code": "2",
+                "name": "Sudan, Republic of the",
+                "iso3": "SDN",
+                "total_budget": 58143704.0,
+                "total_expense": 21325396.0
+            },
+            {
+                "sdg_code": "2",
+                "name": "Bureau Policy & Prog Support",
+                "iso3": "H70",
+                "total_budget": 52291599.0,
+                "total_expense": 25517350.0
+            },
+            {
+                "sdg_code": "2",
+                "name": "Democratic Republic of Congo",
+                "iso3": "COD",
+                "total_budget": 42375238.0,
+                "total_expense": 30275601.0
+            },
+            {
+                "sdg_code": "2",
+                "name": "Nepal",
+                "iso3": "NPL",
+                "total_budget": 37605393.0,
+                "total_expense": 21611241.0
+            },
+            {
+                "sdg_code": "2",
+                "name": "Syria",
+                "iso3": "SYR",
+                "total_budget": 37468983.0,
+                "total_expense": 16676532.0
+            }
+        ]
+    },
+    {
+        "sdg_code": "3",
+        "sdg_name": "Good health and well-being",
+        "color": "23903f",
+        "total_projects": 278.0,
+        "total_donors": 167.0,
+        "total_budget": 886773909.68,
+        "total_expense": 491428626.73,
+        "percentage": 13.09,
+        "target_details": [
+            {
+                "target_id": "3.1",
+                "description": "By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births",
+                "sdg_code": "3",
+                "target_budget": 18308128.9288,
+                "target_expense": 14249226.5866,
+                "total_projects": 2,
+                "total_donors": 2
+            },
+            {
+                "target_id": "3.2",
+                "description": "By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under-5 mortality to at least as low as 25 per 1,000 live births",
+                "sdg_code": "3",
+                "target_budget": 125735573.5146,
+                "target_expense": 58858533.5477,
+                "total_projects": 14,
+                "total_donors": 40
+            },
+            {
+                "target_id": "3.3",
+                "description": "By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases",
+                "sdg_code": "3",
+                "target_budget": 462348389.4442,
+                "target_expense": 304340454.1823,
+                "total_projects": 132,
+                "total_donors": 59
+            },
+            {
+                "target_id": "3.4",
+                "description": "By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being",
+                "sdg_code": "3",
+                "target_budget": 19359435.5888,
+                "target_expense": 9585086.8914,
+                "total_projects": 15,
+                "total_donors": 16
+            },
+            {
+                "target_id": "3.5",
+                "description": "Strengthen the prevention and treatment of substance abuse, including narcotic drug abuse and harmful use of alcohol",
+                "sdg_code": "3",
+                "target_budget": 2797160.5791,
+                "target_expense": 1453159.0375,
+                "total_projects": 8,
+                "total_donors": 7
+            },
+            {
+                "target_id": "3.6",
+                "description": "By 2020, halve the number of global deaths and injuries from road traffic accidents",
+                "sdg_code": "3",
+                "target_budget": 237075.1446,
+                "target_expense": 200908.8961,
+                "total_projects": 2,
+                "total_donors": 3
+            },
+            {
+                "target_id": "3.7",
+                "description": "By 2030, ensure universal access to sexual and reproductive health-care services, including for family planning, information and education, and the integration of reproductive health into national strategies and programmes",
+                "sdg_code": "3",
+                "target_budget": 11825178.7773,
+                "target_expense": 5693692.4927,
+                "total_projects": 12,
+                "total_donors": 12
+            },
+            {
+                "target_id": "3.8",
+                "description": "Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all",
+                "sdg_code": "3",
+                "target_budget": 206777562.5435,
+                "target_expense": 72218217.5662,
+                "total_projects": 76,
+                "total_donors": 64
+            },
+            {
+                "target_id": "3.9",
+                "description": "By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination",
+                "sdg_code": "3",
+                "target_budget": 11588746.4865,
+                "target_expense": 4673033.2084,
+                "total_projects": 37,
+                "total_donors": 28
+            },
+            {
+                "target_id": "3.a",
+                "description": "Strengthen the implementation of the World Health Organization Framework Convention on Tobacco Control in all countries, as appropriate",
+                "sdg_code": "3",
+                "target_budget": 50115.3213,
+                "target_expense": 8717.4615,
+                "total_projects": 2,
+                "total_donors": 2
+            },
+            {
+                "target_id": "3.b",
+                "description": "Support the research and development of vaccines and medicines for the communicable and non‑communicable diseases that primarily affect developing countries, provide access to affordable essential medicines and vaccines, in accordance with the Doha Declaration on the TRIPS Agreement and Public Health, which affirms the right of developing countries to use to the full the provisions in the Agreement on Trade-Related Aspects of Intellectual Property Rights regarding flexibilities to protect public health, and, in particular, provide access to medicines for all",
+                "sdg_code": "3",
+                "target_budget": 9586347.8359,
+                "target_expense": 7937253.7881,
+                "total_projects": 4,
+                "total_donors": 6
+            },
+            {
+                "target_id": "3.c",
+                "description": "Substantially increase health financing and the recruitment, development, training and retention of the health workforce in developing countries, especially in least developed countries and small island developing States",
+                "sdg_code": "3",
+                "target_budget": 5525217.6944,
+                "target_expense": 5306574.4711,
+                "total_projects": 5,
+                "total_donors": 11
+            },
+            {
+                "target_id": "3.d",
+                "description": "Strengthen the capacity of all countries, in particular developing countries, for early warning, risk reduction and management of national and global health risks",
+                "sdg_code": "3",
+                "target_budget": 12634977.8212,
+                "target_expense": 6903768.5962,
+                "total_projects": 31,
+                "total_donors": 35
+            }
+        ],
+        "top_donors": [
+            {
+                "sdg_code": "3",
+                "short_name": "GOB",
+                "org_name": "ARG-GOBIERNO",
+                "total_budget": 1739231368.0,
+                "total_expense": 543352514.0
+            },
+            {
+                "sdg_code": "3",
+                "short_name": "GFATM",
+                "org_name": "The Global Fund to Fight AIDS, Tuberculosis and Malaria",
+                "total_budget": 1731225466.0,
+                "total_expense": 1095133672.0
+            },
+            {
+                "sdg_code": "3",
+                "short_name": "JPN",
+                "org_name": "GOVERNMENT OF JAPAN",
+                "total_budget": 1107673555.0,
+                "total_expense": 940466849.0
+            },
+            {
+                "sdg_code": "3",
+                "short_name": "TUK",
+                "org_name": "GOVERNMENT OF TURKMENISTAN",
+                "total_budget": 381977388.0,
+                "total_expense": 247653639.0
+            },
+            {
+                "sdg_code": "3",
+                "short_name": "INS",
+                "org_name": "GOVERNMENT OF INDONESIA",
+                "total_budget": 265384547.0,
+                "total_expense": 141006303.0
+            },
+            {
+                "sdg_code": "3",
+                "short_name": "CABEI",
+                "org_name": "CENTRAL AMER BANK FOR EOCNOMIC INTEGRATION",
+                "total_budget": 247168760.0,
+                "total_expense": 0.0
+            },
+            {
+                "sdg_code": "3",
+                "short_name": "GAVI",
+                "org_name": "GAVI",
+                "total_budget": 170433058.0,
+                "total_expense": 106533073.0
+            },
+            {
+                "sdg_code": "3",
+                "short_name": "ANG",
+                "org_name": "GOVERNMENT OF ANGOLA",
+                "total_budget": 115171285.0,
+                "total_expense": 19617052.0
+            },
+            {
+                "sdg_code": "3",
+                "short_name": "SUD",
+                "org_name": "GOVERNMENT OF SUDAN",
+                "total_budget": 108637420.0,
+                "total_expense": 36596580.0
+            },
+            {
+                "sdg_code": "3",
+                "short_name": "CUB",
+                "org_name": "GOVERNMENT OF CUBA",
+                "total_budget": 82389588.0,
+                "total_expense": 15864040.0
+            }
+        ],
+        "top_recipients": [
+            {
+                "sdg_code": "3",
+                "name": "Argentina",
+                "iso3": "ARG",
+                "total_budget": 1739631368.0,
+                "total_expense": 543352514.0
+            },
+            {
+                "sdg_code": "3",
+                "name": "Bureau Policy & Prog Support",
+                "iso3": "H70",
+                "total_budget": 1181114437.0,
+                "total_expense": 967362194.0
+            },
+            {
+                "sdg_code": "3",
+                "name": "Zimbabwe",
+                "iso3": "ZWE",
+                "total_budget": 456646164.0,
+                "total_expense": 204753961.0
+            },
+            {
+                "sdg_code": "3",
+                "name": "Turkmenistan",
+                "iso3": "TKM",
+                "total_budget": 410856161.0,
+                "total_expense": 284071851.0
+            },
+            {
+                "sdg_code": "3",
+                "name": "Cuba",
+                "iso3": "CUB",
+                "total_budget": 344261552.0,
+                "total_expense": 26129910.0
+            },
+            {
+                "sdg_code": "3",
+                "name": "Democratic Republic of Congo",
+                "iso3": "COD",
+                "total_budget": 316906673.0,
+                "total_expense": 164770498.0
+            },
+            {
+                "sdg_code": "3",
+                "name": "Sudan, Republic of the",
+                "iso3": "SDN",
+                "total_budget": 300093449.0,
+                "total_expense": 184187659.0
+            },
+            {
+                "sdg_code": "3",
+                "name": "Indonesia",
+                "iso3": "IDN",
+                "total_budget": 284655225.0,
+                "total_expense": 150538570.0
+            },
+            {
+                "sdg_code": "3",
+                "name": "India",
+                "iso3": "IND",
+                "total_budget": 220979794.0,
+                "total_expense": 135806814.0
+            },
+            {
+                "sdg_code": "3",
+                "name": "Angola",
+                "iso3": "AGO",
+                "total_budget": 196974057.0,
+                "total_expense": 91405838.0
+            }
+        ]
+    },
+    {
+        "sdg_code": "4",
+        "sdg_name": "Quality education",
+        "color": "bb1c2d",
+        "total_projects": 176.0,
+        "total_donors": 146.0,
+        "total_budget": 96242246.32,
+        "total_expense": 43673082.16,
+        "percentage": 1.42,
+        "target_details": [
+            {
+                "target_id": "4.1",
+                "description": "By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes",
+                "sdg_code": "4",
+                "target_budget": 24365789.7174,
+                "target_expense": 12703064.9637,
+                "total_projects": 25,
+                "total_donors": 46
+            },
+            {
+                "target_id": "4.2",
+                "description": "By 2030, ensure that all girls and boys have access to quality early childhood development, care and pre-primary education so that they are ready for primary education",
+                "sdg_code": "4",
+                "target_budget": 3710426.3989,
+                "target_expense": 1389530.6594,
+                "total_projects": 8,
+                "total_donors": 8
+            },
+            {
+                "target_id": "4.3",
+                "description": "By 2030, ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university",
+                "sdg_code": "4",
+                "target_budget": 22903610.7642,
+                "target_expense": 5672007.9656,
+                "total_projects": 31,
+                "total_donors": 29
+            },
+            {
+                "target_id": "4.4",
+                "description": "By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship",
+                "sdg_code": "4",
+                "target_budget": 19474227.5115,
+                "target_expense": 9746982.9116,
+                "total_projects": 67,
+                "total_donors": 77
+            },
+            {
+                "target_id": "4.5",
+                "description": "By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations",
+                "sdg_code": "4",
+                "target_budget": 4151577.4737,
+                "target_expense": 2138727.0215,
+                "total_projects": 16,
+                "total_donors": 16
+            },
+            {
+                "target_id": "4.6",
+                "description": "By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy",
+                "sdg_code": "4",
+                "target_budget": 78500.0,
+                "target_expense": 35758.083,
+                "total_projects": 4,
+                "total_donors": 4
+            },
+            {
+                "target_id": "4.7",
+                "description": "By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture’s contribution to sustainable development",
+                "sdg_code": "4",
+                "target_budget": 6900454.9829,
+                "target_expense": 3408960.9295,
+                "total_projects": 39,
+                "total_donors": 47
+            },
+            {
+                "target_id": "4.a",
+                "description": "Build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all",
+                "sdg_code": "4",
+                "target_budget": 10763163.1698,
+                "target_expense": 6800307.4614,
+                "total_projects": 22,
+                "total_donors": 40
+            },
+            {
+                "target_id": "4.b",
+                "description": "By 2020, substantially expand globally the number of scholarships available to developing countries, in particular least developed countries, small island developing States and African countries, for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes, in developed countries and other developing countries",
+                "sdg_code": "4",
+                "target_budget": 342521.7982,
+                "target_expense": 160364.334,
+                "total_projects": 4,
+                "total_donors": 6
+            },
+            {
+                "target_id": "4.c",
+                "description": "By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States",
+                "sdg_code": "4",
+                "target_budget": 3551974.5007,
+                "target_expense": 1617377.8285,
+                "total_projects": 8,
+                "total_donors": 19
+            }
+        ],
+        "top_donors": [
+            {
+                "sdg_code": "4",
+                "short_name": "GOVT",
+                "org_name": "PAN-GOVERNMENT",
+                "total_budget": 128474974.0,
+                "total_expense": 30822944.0
+            },
+            {
+                "sdg_code": "4",
+                "short_name": "ISDB",
+                "org_name": "ISLAMIC DEVELOPMENT BANK",
+                "total_budget": 68000277.0,
+                "total_expense": 63098751.0
+            },
+            {
+                "sdg_code": "4",
+                "short_name": "MBRF",
+                "org_name": "Al Maktoum Foundation",
+                "total_budget": 55603056.0,
+                "total_expense": 33882132.0
+            },
+            {
+                "sdg_code": "4",
+                "short_name": "MFA NORWAY",
+                "org_name": "NOR - MINISTRY OF FOREIGN AFFAIRS",
+                "total_budget": 50520032.0,
+                "total_expense": 34284450.0
+            },
+            {
+                "sdg_code": "4",
+                "short_name": "EUCOMM",
+                "org_name": "EUROPEAN COMMISSION",
+                "total_budget": 48563976.0,
+                "total_expense": 38614784.0
+            },
+            {
+                "sdg_code": "4",
+                "short_name": "DEN",
+                "org_name": "GOVERNMENT OF DENMARK",
+                "total_budget": 41611794.0,
+                "total_expense": 21995580.0
+            },
+            {
+                "sdg_code": "4",
+                "short_name": "KFW",
+                "org_name": "KREDITANSTALT FUR WIEDERAUFBAU",
+                "total_budget": 35112457.0,
+                "total_expense": 33708134.0
+            },
+            {
+                "sdg_code": "4",
+                "short_name": "GAB",
+                "org_name": "GOVERNMENT OF GABON",
+                "total_budget": 31197744.0,
+                "total_expense": 16376444.0
+            },
+            {
+                "sdg_code": "4",
+                "short_name": "KSRelief",
+                "org_name": "King Salman Humanitarian Aid Relief Centre",
+                "total_budget": 29700000.0,
+                "total_expense": 0.0
+            },
+            {
+                "sdg_code": "4",
+                "short_name": "GOB",
+                "org_name": "ARG-GOBIERNO",
+                "total_budget": 29492986.0,
+                "total_expense": 1708015.0
+            }
+        ],
+        "top_recipients": [
+            {
+                "sdg_code": "4",
+                "name": "Prog for Palestinian People",
+                "iso3": "PAL",
+                "total_budget": 146213006.0,
+                "total_expense": 117949163.0
+            },
+            {
+                "sdg_code": "4",
+                "name": "Panama",
+                "iso3": "PAN",
+                "total_budget": 128474974.0,
+                "total_expense": 30822944.0
+            },
+            {
+                "sdg_code": "4",
+                "name": "Ukraine",
+                "iso3": "UKR",
+                "total_budget": 61374171.0,
+                "total_expense": 50330066.0
+            },
+            {
+                "sdg_code": "4",
+                "name": "Reg Bur for Arab States",
+                "iso3": "H05",
+                "total_budget": 55603056.0,
+                "total_expense": 33882132.0
+            },
+            {
+                "sdg_code": "4",
+                "name": "Syria",
+                "iso3": "SYR",
+                "total_budget": 50541120.0,
+                "total_expense": 25379589.0
+            },
+            {
+                "sdg_code": "4",
+                "name": "Moldova, Republic of",
+                "iso3": "MDA",
+                "total_budget": 38664204.0,
+                "total_expense": 19492804.0
+            },
+            {
+                "sdg_code": "4",
+                "name": "Democratic Republic of Congo",
+                "iso3": "COD",
+                "total_budget": 31979130.0,
+                "total_expense": 18470360.0
+            },
+            {
+                "sdg_code": "4",
+                "name": "Gabon",
+                "iso3": "GAB",
+                "total_budget": 31912159.0,
+                "total_expense": 21434761.0
+            },
+            {
+                "sdg_code": "4",
+                "name": "Argentina",
+                "iso3": "ARG",
+                "total_budget": 29492986.0,
+                "total_expense": 1708015.0
+            },
+            {
+                "sdg_code": "4",
+                "name": "South Sudan, Republic of",
+                "iso3": "SSD",
+                "total_budget": 28729504.0,
+                "total_expense": 18149396.0
+            }
+        ]
+    },
+    {
+        "sdg_code": "5",
+        "sdg_name": "Gender equality",
+        "color": "ed3726",
+        "total_projects": 869.0,
+        "total_donors": 365.0,
+        "total_budget": 399435317.53,
+        "total_expense": 200508291.58,
+        "percentage": 5.9,
+        "target_details": [
+            {
+                "target_id": "5.1",
+                "description": "End all forms of discrimination against all women and girls everywhere",
+                "sdg_code": "5",
+                "target_budget": 56522802.1256,
+                "target_expense": 29352594.5701,
+                "total_projects": 210,
+                "total_donors": 123
+            },
+            {
+                "target_id": "5.2",
+                "description": "Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation",
+                "sdg_code": "5",
+                "target_budget": 50391738.1854,
+                "target_expense": 25634103.0061,
+                "total_projects": 143,
+                "total_donors": 87
+            },
+            {
+                "target_id": "5.3",
+                "description": "Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation",
+                "sdg_code": "5",
+                "target_budget": 1263005.432,
+                "target_expense": 694515.5828,
+                "total_projects": 14,
+                "total_donors": 11
+            },
+            {
+                "target_id": "5.4",
+                "description": "Recognize and value unpaid care and domestic work through the provision of public services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family as nationally appropriate",
+                "sdg_code": "5",
+                "target_budget": 14853948.803,
+                "target_expense": 7948352.1504,
+                "total_projects": 42,
+                "total_donors": 45
+            },
+            {
+                "target_id": "5.5",
+                "description": "Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and public life",
+                "sdg_code": "5",
+                "target_budget": 128304142.6727,
+                "target_expense": 64592734.9484,
+                "total_projects": 399,
+                "total_donors": 227
+            },
+            {
+                "target_id": "5.6",
+                "description": "Ensure universal access to sexual and reproductive health and reproductive rights as agreed in accordance with the Programme of Action of the International Conference on Population and Development and the Beijing Platform for Action and the outcome documents of their review conferences",
+                "sdg_code": "5",
+                "target_budget": 82117570.9266,
+                "target_expense": 44050644.7021,
+                "total_projects": 20,
+                "total_donors": 17
+            },
+            {
+                "target_id": "5.a",
+                "description": "Undertake reforms to give women equal rights to economic resources, as well as access to ownership and control over land and other forms of property, financial services, inheritance and natural resources, in accordance with national laws",
+                "sdg_code": "5",
+                "target_budget": 13980592.8411,
+                "target_expense": 8075597.8927,
+                "total_projects": 72,
+                "total_donors": 52
+            },
+            {
+                "target_id": "5.b",
+                "description": "Enhance the use of enabling technology, in particular information and communications technology, to promote the empowerment of women",
+                "sdg_code": "5",
+                "target_budget": 36077758.2956,
+                "target_expense": 13138615.0803,
+                "total_projects": 53,
+                "total_donors": 41
+            },
+            {
+                "target_id": "5.c",
+                "description": "Adopt and strengthen sound policies and enforceable legislation for the promotion of gender equality and the empowerment of all women and girls at all levels",
+                "sdg_code": "5",
+                "target_budget": 15923758.2506,
+                "target_expense": 7021133.6518,
+                "total_projects": 108,
+                "total_donors": 66
+            }
+        ],
+        "top_donors": [
+            {
+                "sdg_code": "5",
+                "short_name": "GOB",
+                "org_name": "ARG-GOBIERNO",
+                "total_budget": 913445632.0,
+                "total_expense": 264405751.0
+            },
+            {
+                "sdg_code": "5",
+                "short_name": "KFW",
+                "org_name": "KREDITANSTALT FUR WIEDERAUFBAU",
+                "total_budget": 350924237.0,
+                "total_expense": 139452761.0
+            },
+            {
+                "sdg_code": "5",
+                "short_name": "EUCOMM",
+                "org_name": "EUROPEAN COMMISSION",
+                "total_budget": 343726081.0,
+                "total_expense": 208718041.0
+            },
+            {
+                "sdg_code": "5",
+                "short_name": "UNDP",
+                "org_name": "UNITED NATIONS DEVELOPMENT PROGRAMME",
+                "total_budget": 292403158.0,
+                "total_expense": 205805997.0
+            },
+            {
+                "sdg_code": "5",
+                "short_name": "INS",
+                "org_name": "GOVERNMENT OF INDONESIA",
+                "total_budget": 259544979.0,
+                "total_expense": 138679443.0
+            },
+            {
+                "sdg_code": "5",
+                "short_name": "GOVT",
+                "org_name": "PAN-GOVERNMENT",
+                "total_budget": 212132205.0,
+                "total_expense": 105230942.0
+            },
+            {
+                "sdg_code": "5",
+                "short_name": "GVT",
+                "org_name": "HAI-GOVERNMENT OF HAITI",
+                "total_budget": 195533325.0,
+                "total_expense": 125107983.0
+            },
+            {
+                "sdg_code": "5",
+                "short_name": "KOICA",
+                "org_name": "KOREA INTERN. COOPERATION AGENCY",
+                "total_budget": 151610112.0,
+                "total_expense": 70217512.0
+            },
+            {
+                "sdg_code": "5",
+                "short_name": "HONDUTEL",
+                "org_name": "HON-EMPRESA HONDUREÃ‘A DE TELECOMUNICACIONES",
+                "total_budget": 139027488.0,
+                "total_expense": 38258490.0
+            },
+            {
+                "sdg_code": "5",
+                "short_name": "GEFTrustee",
+                "org_name": "Global Environment Fund Truste",
+                "total_budget": 113851453.0,
+                "total_expense": 47956953.0
+            }
+        ],
+        "top_recipients": [
+            {
+                "sdg_code": "5",
+                "name": "Argentina",
+                "iso3": "ARG",
+                "total_budget": 913748856.0,
+                "total_expense": 264347945.0
+            },
+            {
+                "sdg_code": "5",
+                "name": "Lebanon",
+                "iso3": "LBN",
+                "total_budget": 430390881.0,
+                "total_expense": 164784156.0
+            },
+            {
+                "sdg_code": "5",
+                "name": "Indonesia",
+                "iso3": "IDN",
+                "total_budget": 267000450.0,
+                "total_expense": 144866097.0
+            },
+            {
+                "sdg_code": "5",
+                "name": "Haiti",
+                "iso3": "HTI",
+                "total_budget": 254779740.0,
+                "total_expense": 149633398.0
+            },
+            {
+                "sdg_code": "5",
+                "name": "Panama",
+                "iso3": "PAN",
+                "total_budget": 223679679.0,
+                "total_expense": 108909145.0
+            },
+            {
+                "sdg_code": "5",
+                "name": "Regional Center - Addis Ababa",
+                "iso3": "R12",
+                "total_budget": 193078347.0,
+                "total_expense": 118892624.0
+            },
+            {
+                "sdg_code": "5",
+                "name": "Honduras",
+                "iso3": "HND",
+                "total_budget": 156129210.0,
+                "total_expense": 45762367.0
+            },
+            {
+                "sdg_code": "5",
+                "name": "Brazil",
+                "iso3": "BRA",
+                "total_budget": 156066819.0,
+                "total_expense": 50648509.0
+            },
+            {
+                "sdg_code": "5",
+                "name": "Uruguay",
+                "iso3": "URY",
+                "total_budget": 129528322.0,
+                "total_expense": 86461166.0
+            },
+            {
+                "sdg_code": "5",
+                "name": "Colombia",
+                "iso3": "COL",
+                "total_budget": 107344684.0,
+                "total_expense": 51047336.0
+            }
+        ]
+    },
+    {
+        "sdg_code": "6",
+        "sdg_name": "Clean water and sanitation",
+        "color": "00a5d4",
+        "total_projects": 124.0,
+        "total_donors": 86.0,
+        "total_budget": 102744719.61,
+        "total_expense": 51745202.77,
+        "percentage": 1.52,
+        "target_details": [
+            {
+                "target_id": "6.1",
+                "description": "By 2030, achieve universal and equitable access to safe and affordable drinking water for all",
+                "sdg_code": "6",
+                "target_budget": 23289403.433,
+                "target_expense": 11720145.8876,
+                "total_projects": 36,
+                "total_donors": 43
+            },
+            {
+                "target_id": "6.2",
+                "description": "By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations",
+                "sdg_code": "6",
+                "target_budget": 12383161.5936,
+                "target_expense": 5019312.6008,
+                "total_projects": 15,
+                "total_donors": 18
+            },
+            {
+                "target_id": "6.3",
+                "description": "By 2030, improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally",
+                "sdg_code": "6",
+                "target_budget": 18437591.9112,
+                "target_expense": 8718787.3572,
+                "total_projects": 21,
+                "total_donors": 24
+            },
+            {
+                "target_id": "6.4",
+                "description": "By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity",
+                "sdg_code": "6",
+                "target_budget": 17777545.0668,
+                "target_expense": 11493772.4326,
+                "total_projects": 18,
+                "total_donors": 23
+            },
+            {
+                "target_id": "6.5",
+                "description": "By 2030, implement integrated water resources management at all levels, including through transboundary cooperation as appropriate",
+                "sdg_code": "6",
+                "target_budget": 20016859.2459,
+                "target_expense": 8852226.2545,
+                "total_projects": 27,
+                "total_donors": 16
+            },
+            {
+                "target_id": "6.6",
+                "description": "By 2020, protect and restore water-related ecosystems, including mountains, forests, wetlands, rivers, aquifers and lakes",
+                "sdg_code": "6",
+                "target_budget": 4642130.9823,
+                "target_expense": 2152695.2137,
+                "total_projects": 16,
+                "total_donors": 12
+            },
+            {
+                "target_id": "6.a",
+                "description": "By 2030, expand international cooperation and capacity-building support to developing countries in water- and sanitation-related activities and programmes, including water harvesting, desalination, water efficiency, wastewater treatment, recycling and reuse technologies",
+                "sdg_code": "6",
+                "target_budget": 102053.7936,
+                "target_expense": 117807.3599,
+                "total_projects": 2,
+                "total_donors": 3
+            },
+            {
+                "target_id": "6.b",
+                "description": "Support and strengthen the participation of local communities in improving water and sanitation management",
+                "sdg_code": "6",
+                "target_budget": 6095973.5839,
+                "target_expense": 3670455.6593,
+                "total_projects": 17,
+                "total_donors": 21
+            }
+        ],
+        "top_donors": [
+            {
+                "sdg_code": "6",
+                "short_name": "KFW",
+                "org_name": "KREDITANSTALT FUR WIEDERAUFBAU",
+                "total_budget": 149312297.0,
+                "total_expense": 106229901.0
+            },
+            {
+                "sdg_code": "6",
+                "short_name": "GCF",
+                "org_name": "GREEN CLIMATE FUND",
+                "total_budget": 139848412.0,
+                "total_expense": 87718560.0
+            },
+            {
+                "sdg_code": "6",
+                "short_name": "JPN",
+                "org_name": "GOVERNMENT OF JAPAN",
+                "total_budget": 139620864.0,
+                "total_expense": 102766940.0
+            },
+            {
+                "sdg_code": "6",
+                "short_name": "GEFTrustee",
+                "org_name": "Global Environment Fund Truste",
+                "total_budget": 120351203.0,
+                "total_expense": 62300158.0
+            },
+            {
+                "sdg_code": "6",
+                "short_name": "UNDP",
+                "org_name": "UNITED NATIONS DEVELOPMENT PROGRAMME",
+                "total_budget": 73874061.0,
+                "total_expense": 52421233.0
+            },
+            {
+                "sdg_code": "6",
+                "short_name": "URU-MVOT",
+                "org_name": "URU-Min Vivienda O Territorial",
+                "total_budget": 60542770.0,
+                "total_expense": 39639340.0
+            },
+            {
+                "sdg_code": "6",
+                "short_name": "EUCOMM",
+                "org_name": "EUROPEAN COMMISSION",
+                "total_budget": 60085374.0,
+                "total_expense": 41483752.0
+            },
+            {
+                "sdg_code": "6",
+                "short_name": "NET",
+                "org_name": "GOVERNMENT OF NETHERLANDS",
+                "total_budget": 50781127.0,
+                "total_expense": 25459375.0
+            },
+            {
+                "sdg_code": "6",
+                "short_name": "GOB.URU.",
+                "org_name": "URU-GOBIERNO DEL URUGUAY",
+                "total_budget": 49971610.0,
+                "total_expense": 35443555.0
+            },
+            {
+                "sdg_code": "6",
+                "short_name": "KSRelief",
+                "org_name": "King Salman Humanitarian Aid Relief Centre",
+                "total_budget": 35663326.0,
+                "total_expense": 2083936.0
+            }
+        ],
+        "top_recipients": [
+            {
+                "sdg_code": "6",
+                "name": "Afghanistan",
+                "iso3": "AFG",
+                "total_budget": 144993135.0,
+                "total_expense": 128550418.0
+            },
+            {
+                "sdg_code": "6",
+                "name": "Comoros",
+                "iso3": "COM",
+                "total_budget": 132195854.0,
+                "total_expense": 78705321.0
+            },
+            {
+                "sdg_code": "6",
+                "name": "Lebanon",
+                "iso3": "LBN",
+                "total_budget": 122139680.0,
+                "total_expense": 77581530.0
+            },
+            {
+                "sdg_code": "6",
+                "name": "Uruguay",
+                "iso3": "URY",
+                "total_budget": 111040071.0,
+                "total_expense": 75082895.0
+            },
+            {
+                "sdg_code": "6",
+                "name": "Syria",
+                "iso3": "SYR",
+                "total_budget": 69923805.0,
+                "total_expense": 45459951.0
+            },
+            {
+                "sdg_code": "6",
+                "name": "Prog for Palestinian People",
+                "iso3": "PAL",
+                "total_budget": 69563343.0,
+                "total_expense": 31541995.0
+            },
+            {
+                "sdg_code": "6",
+                "name": "Sudan, Republic of the",
+                "iso3": "SDN",
+                "total_budget": 49362531.0,
+                "total_expense": 25836453.0
+            },
+            {
+                "sdg_code": "6",
+                "name": "Libya",
+                "iso3": "LBY",
+                "total_budget": 33142692.0,
+                "total_expense": 14676336.0
+            },
+            {
+                "sdg_code": "6",
+                "name": "Saudi Arabia",
+                "iso3": "SAU",
+                "total_budget": 31560000.0,
+                "total_expense": 24075000.0
+            },
+            {
+                "sdg_code": "6",
+                "name": "Marshall Islands",
+                "iso3": "MHL",
+                "total_budget": 30536388.0,
+                "total_expense": 22867494.0
+            }
+        ]
+    },
+    {
+        "sdg_code": "7",
+        "sdg_name": "Affordable and clean energy",
+        "color": "fdae14",
+        "total_projects": 337.0,
+        "total_donors": 152.0,
+        "total_budget": 260382090.3,
+        "total_expense": 172434088.07,
+        "percentage": 3.84,
+        "target_details": [
+            {
+                "target_id": "7.1",
+                "description": "By 2030, ensure universal access to affordable, reliable and modern energy services",
+                "sdg_code": "7",
+                "target_budget": 173222226.1873,
+                "target_expense": 128212659.4942,
+                "total_projects": 228,
+                "total_donors": 113
+            },
+            {
+                "target_id": "7.2",
+                "description": "By 2030, increase substantially the share of renewable energy in the global energy mix",
+                "sdg_code": "7",
+                "target_budget": 19817844.7387,
+                "target_expense": 7384919.6999,
+                "total_projects": 74,
+                "total_donors": 57
+            },
+            {
+                "target_id": "7.3",
+                "description": "By 2030, double the global rate of improvement in energy efficiency",
+                "sdg_code": "7",
+                "target_budget": 13796285.502,
+                "target_expense": 5395154.2516,
+                "total_projects": 29,
+                "total_donors": 19
+            },
+            {
+                "target_id": "7.a",
+                "description": "By 2030, enhance international cooperation to facilitate access to clean energy research and technology, including renewable energy, energy efficiency and advanced and cleaner fossil-fuel technology, and promote investment in energy infrastructure and clean energy technology",
+                "sdg_code": "7",
+                "target_budget": 24066851.7246,
+                "target_expense": 16415206.3511,
+                "total_projects": 44,
+                "total_donors": 39
+            },
+            {
+                "target_id": "7.b",
+                "description": "By 2030, expand infrastructure and upgrade technology for supplying modern and sustainable energy services for all in developing countries, in particular least developed countries, small island developing States and landlocked developing countries, in accordance with their respective programmes of support",
+                "sdg_code": "7",
+                "target_budget": 29478882.1496,
+                "target_expense": 15026148.2766,
+                "total_projects": 49,
+                "total_donors": 29
+            }
+        ],
+        "top_donors": [
+            {
+                "sdg_code": "7",
+                "short_name": "NORAD",
+                "org_name": "NORWEGIAN AGENCY FOR DEVELOPMENT COOPERATION",
+                "total_budget": 308613508.0,
+                "total_expense": 278095296.0
+            },
+            {
+                "sdg_code": "7",
+                "short_name": "JPN",
+                "org_name": "GOVERNMENT OF JAPAN",
+                "total_budget": 280101953.0,
+                "total_expense": 313723510.0
+            },
+            {
+                "sdg_code": "7",
+                "short_name": "GEFTrustee",
+                "org_name": "Global Environment Fund Truste",
+                "total_budget": 201787176.0,
+                "total_expense": 91440442.0
+            },
+            {
+                "sdg_code": "7",
+                "short_name": "EUCOMM",
+                "org_name": "EUROPEAN COMMISSION",
+                "total_budget": 190169400.0,
+                "total_expense": 92840438.0
+            },
+            {
+                "sdg_code": "7",
+                "short_name": "UNDP",
+                "org_name": "UNITED NATIONS DEVELOPMENT PROGRAMME",
+                "total_budget": 169373809.0,
+                "total_expense": 128618939.0
+            },
+            {
+                "sdg_code": "7",
+                "short_name": "SIDA",
+                "org_name": "SWEDISH INTERNATIONAL DEVELOPMENT COOPERATION (SIDA)",
+                "total_budget": 112660694.0,
+                "total_expense": 99242621.0
+            },
+            {
+                "sdg_code": "7",
+                "short_name": "GCF",
+                "org_name": "GREEN CLIMATE FUND",
+                "total_budget": 109668573.0,
+                "total_expense": 76799292.0
+            },
+            {
+                "sdg_code": "7",
+                "short_name": "KFW",
+                "org_name": "KREDITANSTALT FUR WIEDERAUFBAU",
+                "total_budget": 93164920.0,
+                "total_expense": 68734839.0
+            },
+            {
+                "sdg_code": "7",
+                "short_name": "MPTF-AFI00",
+                "org_name": "MPTF-Cntrl African Forest init",
+                "total_budget": 87308081.0,
+                "total_expense": 44245870.0
+            },
+            {
+                "sdg_code": "7",
+                "short_name": "ITA MAE",
+                "org_name": "Italian Min. for Foreign Affairs",
+                "total_budget": 69417282.0,
+                "total_expense": 51486501.0
+            }
+        ],
+        "top_recipients": [
+            {
+                "sdg_code": "7",
+                "name": "Ukraine",
+                "iso3": "UKR",
+                "total_budget": 664199828.0,
+                "total_expense": 601301538.0
+            },
+            {
+                "sdg_code": "7",
+                "name": "Moldova, Republic of",
+                "iso3": "MDA",
+                "total_budget": 221120463.0,
+                "total_expense": 204423530.0
+            },
+            {
+                "sdg_code": "7",
+                "name": "Afghanistan",
+                "iso3": "AFG",
+                "total_budget": 216629943.0,
+                "total_expense": 182717620.0
+            },
+            {
+                "sdg_code": "7",
+                "name": "Democratic Republic of Congo",
+                "iso3": "COD",
+                "total_budget": 170175195.0,
+                "total_expense": 197895712.0
+            },
+            {
+                "sdg_code": "7",
+                "name": "Bureau Policy & Prog Support",
+                "iso3": "H70",
+                "total_budget": 138812942.0,
+                "total_expense": 76806673.0
+            },
+            {
+                "sdg_code": "7",
+                "name": "Bosnia and Herzegovina",
+                "iso3": "BIH",
+                "total_budget": 64476268.0,
+                "total_expense": 19730239.0
+            },
+            {
+                "sdg_code": "7",
+                "name": "Armenia",
+                "iso3": "ARM",
+                "total_budget": 54610151.0,
+                "total_expense": 32894074.0
+            },
+            {
+                "sdg_code": "7",
+                "name": "Lebanon",
+                "iso3": "LBN",
+                "total_budget": 53548691.0,
+                "total_expense": 17210297.0
+            },
+            {
+                "sdg_code": "7",
+                "name": "Mozambique",
+                "iso3": "MOZ",
+                "total_budget": 48660447.0,
+                "total_expense": 15258399.0
+            },
+            {
+                "sdg_code": "7",
+                "name": "Zimbabwe",
+                "iso3": "ZWE",
+                "total_budget": 48318271.0,
+                "total_expense": 51158686.0
+            }
+        ]
+    },
+    {
+        "sdg_code": "8",
+        "sdg_name": "Decent work and economic growth",
+        "color": "841731",
+        "total_projects": 561.0,
+        "total_donors": 229.0,
+        "total_budget": 253214468.82,
+        "total_expense": 135490958.81,
+        "percentage": 3.74,
+        "target_details": [
+            {
+                "target_id": "8.1",
+                "description": "Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries",
+                "sdg_code": "8",
+                "target_budget": 15591187.015,
+                "target_expense": 7517090.278,
+                "total_projects": 56,
+                "total_donors": 50
+            },
+            {
+                "target_id": "8.2",
+                "description": "Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors",
+                "sdg_code": "8",
+                "target_budget": 59274768.1428,
+                "target_expense": 26482993.2977,
+                "total_projects": 151,
+                "total_donors": 92
+            },
+            {
+                "target_id": "8.3",
+                "description": "Promote development-oriented policies that support productive activities, decent job creation, entrepreneurship, creativity and innovation, and encourage the formalization and growth of micro-, small- and medium-sized enterprises, including through access to financial services",
+                "sdg_code": "8",
+                "target_budget": 111510055.7188,
+                "target_expense": 64614256.0353,
+                "total_projects": 288,
+                "total_donors": 151
+            },
+            {
+                "target_id": "8.4",
+                "description": "Improve progressively, through 2030, global resource efficiency in consumption and production and endeavour to decouple economic growth from environmental degradation, in accordance with the 10‑Year Framework of Programmes on Sustainable Consumption and Production, with developed countries taking the lead",
+                "sdg_code": "8",
+                "target_budget": 10865649.8365,
+                "target_expense": 5519129.3511,
+                "total_projects": 24,
+                "total_donors": 18
+            },
+            {
+                "target_id": "8.5",
+                "description": "By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value",
+                "sdg_code": "8",
+                "target_budget": 33915677.0528,
+                "target_expense": 19288607.6844,
+                "total_projects": 134,
+                "total_donors": 84
+            },
+            {
+                "target_id": "8.6",
+                "description": "By 2020, substantially reduce the proportion of youth not in employment, education or training",
+                "sdg_code": "8",
+                "target_budget": 13758492.7484,
+                "target_expense": 8259796.3367,
+                "total_projects": 47,
+                "total_donors": 43
+            },
+            {
+                "target_id": "8.7",
+                "description": "Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms",
+                "sdg_code": "8",
+                "target_budget": 291250.5387,
+                "target_expense": 334953.3918,
+                "total_projects": 4,
+                "total_donors": 4
+            },
+            {
+                "target_id": "8.8",
+                "description": "Protect labour rights and promote safe and secure working environments for all workers, including migrant workers, in particular women migrants, and those in precarious employment",
+                "sdg_code": "8",
+                "target_budget": 4204382.75,
+                "target_expense": 1286551.257,
+                "total_projects": 7,
+                "total_donors": 7
+            },
+            {
+                "target_id": "8.9",
+                "description": "By 2030, devise and implement policies to promote sustainable tourism that creates jobs and promotes local culture and products",
+                "sdg_code": "8",
+                "target_budget": 3236315.1459,
+                "target_expense": 1785987.6237,
+                "total_projects": 25,
+                "total_donors": 16
+            },
+            {
+                "target_id": "8.a",
+                "description": "Increase Aid for Trade support for developing countries, in particular least developed countries, including through the Enhanced Integrated Framework for Trade-related Technical Assistance to Least Developed Countries",
+                "sdg_code": "8",
+                "target_budget": 461977.8929,
+                "target_expense": 312790.1421,
+                "total_projects": 3,
+                "total_donors": 3
+            },
+            {
+                "target_id": "8.b",
+                "description": "By 2020, develop and operationalize a global strategy for youth employment and implement the Global Jobs Pact of the International Labour Organization",
+                "sdg_code": "8",
+                "target_budget": 104711.9756,
+                "target_expense": 88803.4132,
+                "total_projects": 2,
+                "total_donors": 2
+            }
+        ],
+        "top_donors": [
+            {
+                "sdg_code": "8",
+                "short_name": "KFW",
+                "org_name": "KREDITANSTALT FUR WIEDERAUFBAU",
+                "total_budget": 365655358.0,
+                "total_expense": 153919879.0
+            },
+            {
+                "sdg_code": "8",
+                "short_name": "UNDP",
+                "org_name": "UNITED NATIONS DEVELOPMENT PROGRAMME",
+                "total_budget": 312447462.0,
+                "total_expense": 278901813.0
+            },
+            {
+                "sdg_code": "8",
+                "short_name": "GOB",
+                "org_name": "ARG-GOBIERNO",
+                "total_budget": 281068825.0,
+                "total_expense": 9485595.0
+            },
+            {
+                "sdg_code": "8",
+                "short_name": "EUCOMM",
+                "org_name": "EUROPEAN COMMISSION",
+                "total_budget": 268286035.0,
+                "total_expense": 178513186.0
+            },
+            {
+                "sdg_code": "8",
+                "short_name": "JPN",
+                "org_name": "GOVERNMENT OF JAPAN",
+                "total_budget": 245330231.0,
+                "total_expense": 233116246.0
+            },
+            {
+                "sdg_code": "8",
+                "short_name": "KOICA",
+                "org_name": "KOREA INTERN. COOPERATION AGENCY",
+                "total_budget": 159294190.0,
+                "total_expense": 68177593.0
+            },
+            {
+                "sdg_code": "8",
+                "short_name": "GOVT",
+                "org_name": "PAN-GOVERNMENT",
+                "total_budget": 149967937.0,
+                "total_expense": 41164794.0
+            },
+            {
+                "sdg_code": "8",
+                "short_name": "GER",
+                "org_name": "GOVERNMENT OF GERMANY",
+                "total_budget": 120889748.0,
+                "total_expense": 59627268.0
+            },
+            {
+                "sdg_code": "8",
+                "short_name": "DFATD",
+                "org_name": "Dept of Forgn Afrs Trade & Dev",
+                "total_budget": 89036246.0,
+                "total_expense": 63657423.0
+            },
+            {
+                "sdg_code": "8",
+                "short_name": "FCDO",
+                "org_name": "Foreign,Commonwealth & Dev.Off.",
+                "total_budget": 85524306.0,
+                "total_expense": 59049302.0
+            }
+        ],
+        "top_recipients": [
+            {
+                "sdg_code": "8",
+                "name": "Lebanon",
+                "iso3": "LBN",
+                "total_budget": 374237572.0,
+                "total_expense": 135239841.0
+            },
+            {
+                "sdg_code": "8",
+                "name": "Argentina",
+                "iso3": "ARG",
+                "total_budget": 290452633.0,
+                "total_expense": 13591843.0
+            },
+            {
+                "sdg_code": "8",
+                "name": "Ethiopia",
+                "iso3": "ETH",
+                "total_budget": 215177986.0,
+                "total_expense": 161102428.0
+            },
+            {
+                "sdg_code": "8",
+                "name": "Ukraine",
+                "iso3": "UKR",
+                "total_budget": 157882268.0,
+                "total_expense": 127546003.0
+            },
+            {
+                "sdg_code": "8",
+                "name": "Panama",
+                "iso3": "PAN",
+                "total_budget": 150080434.0,
+                "total_expense": 41217725.0
+            },
+            {
+                "sdg_code": "8",
+                "name": "Afghanistan",
+                "iso3": "AFG",
+                "total_budget": 148678485.0,
+                "total_expense": 146426417.0
+            },
+            {
+                "sdg_code": "8",
+                "name": "Bureau Policy & Prog Support",
+                "iso3": "H70",
+                "total_budget": 122427175.0,
+                "total_expense": 56110874.0
+            },
+            {
+                "sdg_code": "8",
+                "name": "South Sudan, Republic of",
+                "iso3": "SSD",
+                "total_budget": 112304724.0,
+                "total_expense": 92772012.0
+            },
+            {
+                "sdg_code": "8",
+                "name": "Regional Center - Addis Ababa",
+                "iso3": "R12",
+                "total_budget": 107131914.0,
+                "total_expense": 44244173.0
+            },
+            {
+                "sdg_code": "8",
+                "name": "Prog for Palestinian People",
+                "iso3": "PAL",
+                "total_budget": 98746260.0,
+                "total_expense": 49501128.0
+            }
+        ]
+    },
+    {
+        "sdg_code": "9",
+        "sdg_name": "Industry, innovation and infrastructure",
+        "color": "f16121",
+        "total_projects": 385.0,
+        "total_donors": 168.0,
+        "total_budget": 292212176.98,
+        "total_expense": 172107975.72,
+        "percentage": 4.31,
+        "target_details": [
+            {
+                "target_id": "9.1",
+                "description": "Develop quality, reliable, sustainable and resilient infrastructure, including regional and trans-border infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all",
+                "sdg_code": "9",
+                "target_budget": 61914765.3929,
+                "target_expense": 38084745.5089,
+                "total_projects": 99,
+                "total_donors": 64
+            },
+            {
+                "target_id": "9.2",
+                "description": "Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry’s share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries",
+                "sdg_code": "9",
+                "target_budget": 5570828.2192,
+                "target_expense": 1910945.1563,
+                "total_projects": 13,
+                "total_donors": 16
+            },
+            {
+                "target_id": "9.3",
+                "description": "Increase the access of small-scale industrial and other enterprises, in particular in developing countries, to financial services, including affordable credit, and their integration into value chains and markets",
+                "sdg_code": "9",
+                "target_budget": 16466452.1742,
+                "target_expense": 6221960.7311,
+                "total_projects": 62,
+                "total_donors": 56
+            },
+            {
+                "target_id": "9.4",
+                "description": "By 2030, upgrade infrastructure and retrofit industries to make them sustainable, with increased resource-use efficiency and greater adoption of clean and environmentally sound technologies and industrial processes, with all countries taking action in accordance with their respective capabilities",
+                "sdg_code": "9",
+                "target_budget": 112610401.2789,
+                "target_expense": 94438244.6077,
+                "total_projects": 139,
+                "total_donors": 72
+            },
+            {
+                "target_id": "9.5",
+                "description": "Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, by 2030, encouraging innovation and substantially increasing the number of research and development workers per 1 million people and public and private research and development spending",
+                "sdg_code": "9",
+                "target_budget": 22287443.4157,
+                "target_expense": 10745242.2421,
+                "total_projects": 34,
+                "total_donors": 27
+            },
+            {
+                "target_id": "9.a",
+                "description": "Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States",
+                "sdg_code": "9",
+                "target_budget": 10670832.1246,
+                "target_expense": 5770620.5643,
+                "total_projects": 14,
+                "total_donors": 16
+            },
+            {
+                "target_id": "9.b",
+                "description": "Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities",
+                "sdg_code": "9",
+                "target_budget": 35951846.9579,
+                "target_expense": 5593294.7936,
+                "total_projects": 48,
+                "total_donors": 39
+            },
+            {
+                "target_id": "9.c",
+                "description": "Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020",
+                "sdg_code": "9",
+                "target_budget": 26739607.4195,
+                "target_expense": 9342922.1189,
+                "total_projects": 28,
+                "total_donors": 21
+            }
+        ],
+        "top_donors": [
+            {
+                "sdg_code": "9",
+                "short_name": "NORAD",
+                "org_name": "NORWEGIAN AGENCY FOR DEVELOPMENT COOPERATION",
+                "total_budget": 282139660.0,
+                "total_expense": 251733734.0
+            },
+            {
+                "sdg_code": "9",
+                "short_name": "EUCOMM",
+                "org_name": "EUROPEAN COMMISSION",
+                "total_budget": 278514054.0,
+                "total_expense": 195565224.0
+            },
+            {
+                "sdg_code": "9",
+                "short_name": "CABEI",
+                "org_name": "CENTRAL AMER BANK FOR EOCNOMIC INTEGRATION",
+                "total_budget": 247168760.0,
+                "total_expense": 0.0
+            },
+            {
+                "sdg_code": "9",
+                "short_name": "GOB",
+                "org_name": "ARG-GOBIERNO",
+                "total_budget": 216226538.0,
+                "total_expense": 3833670.0
+            },
+            {
+                "sdg_code": "9",
+                "short_name": "JPN",
+                "org_name": "GOVERNMENT OF JAPAN",
+                "total_budget": 213555735.0,
+                "total_expense": 234884868.0
+            },
+            {
+                "sdg_code": "9",
+                "short_name": "GEFTrustee",
+                "org_name": "Global Environment Fund Truste",
+                "total_budget": 144693350.0,
+                "total_expense": 88105175.0
+            },
+            {
+                "sdg_code": "9",
+                "short_name": "HONDUTEL",
+                "org_name": "HON-EMPRESA HONDUREÃ‘A DE TELECOMUNICACIONES",
+                "total_budget": 139027488.0,
+                "total_expense": 38258490.0
+            },
+            {
+                "sdg_code": "9",
+                "short_name": "Serbia",
+                "org_name": "Government of Serbia",
+                "total_budget": 135646970.0,
+                "total_expense": 59669642.0
+            },
+            {
+                "sdg_code": "9",
+                "short_name": "UNDP",
+                "org_name": "UNITED NATIONS DEVELOPMENT PROGRAMME",
+                "total_budget": 121455891.0,
+                "total_expense": 106905425.0
+            },
+            {
+                "sdg_code": "9",
+                "short_name": "KFW",
+                "org_name": "KREDITANSTALT FUR WIEDERAUFBAU",
+                "total_budget": 96813933.0,
+                "total_expense": 57978294.0
+            }
+        ],
+        "top_recipients": [
+            {
+                "sdg_code": "9",
+                "name": "Ukraine",
+                "iso3": "UKR",
+                "total_budget": 684434657.0,
+                "total_expense": 665930604.0
+            },
+            {
+                "sdg_code": "9",
+                "name": "Cuba",
+                "iso3": "CUB",
+                "total_budget": 350754068.0,
+                "total_expense": 18892446.0
+            },
+            {
+                "sdg_code": "9",
+                "name": "Argentina",
+                "iso3": "ARG",
+                "total_budget": 228560954.0,
+                "total_expense": 8393018.0
+            },
+            {
+                "sdg_code": "9",
+                "name": "Serbia",
+                "iso3": "SRB",
+                "total_budget": 186291255.0,
+                "total_expense": 85434010.0
+            },
+            {
+                "sdg_code": "9",
+                "name": "Honduras",
+                "iso3": "HND",
+                "total_budget": 139027488.0,
+                "total_expense": 38586444.0
+            },
+            {
+                "sdg_code": "9",
+                "name": "Mozambique",
+                "iso3": "MOZ",
+                "total_budget": 126812416.0,
+                "total_expense": 66639195.0
+            },
+            {
+                "sdg_code": "9",
+                "name": "Moldova, Republic of",
+                "iso3": "MDA",
+                "total_budget": 116931108.0,
+                "total_expense": 105067304.0
+            },
+            {
+                "sdg_code": "9",
+                "name": "Democratic Republic of Congo",
+                "iso3": "COD",
+                "total_budget": 114805331.0,
+                "total_expense": 69568274.0
+            },
+            {
+                "sdg_code": "9",
+                "name": "Bureau Policy & Prog Support",
+                "iso3": "H70",
+                "total_budget": 103118558.0,
+                "total_expense": 61302664.0
+            },
+            {
+                "sdg_code": "9",
+                "name": "Prog for Palestinian People",
+                "iso3": "PAL",
+                "total_budget": 99216349.0,
+                "total_expense": 48551580.0
+            }
+        ]
+    }
+]
