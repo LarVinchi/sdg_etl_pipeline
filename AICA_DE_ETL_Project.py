@@ -62,41 +62,41 @@ def transform_sdg_data(data: dict, country_csv_path: str) -> pd.DataFrame:
 
 
 # %% [Stage 3: Load Transformed Data]
-def load_to_csv(df: pd.DataFrame, save_path: str):
+def load_to_csv(cleaned: pd.DataFrame, csv_save_path: str):
     """
     Save cleaned DataFrame as CSV.
     """
-    df.to_csv(save_path, index=False)
+    cleaned.to_csv(csv_save_path, index=False)
     print(f"Cleaned data saved to CSV at {save_path}")
 
 
 # %% [Optional: Basic Analysis]
-def analyze_data(df: pd.DataFrame):
+def analyze_data(cleaned: pd.DataFrame):
     """
     Perform basic analysis on the SDG recipients dataset.
     """
     print("=== Top 10 Countries by Total Recipient Budget ===")
-    print(df.groupby('country')['recipient_budget'].sum().sort_values(ascending=False).head(10))
+    print(cleaned.groupby('country')['recipient_budget'].sum().sort_values(ascending=False).head(10))
     
     print("\n=== Number of Countries per Region ===")
-    print(df['region'].value_counts())
+    print(cleaned['region'].value_counts())
 
 
 # %% [Main ETL Pipeline]
 if __name__ == "__main__":
-    API_URL = 'https://api.open.undp.org/api/sdg-index.json'
-    JSON_PATH = r"C:\Users\NOC1\Desktop\sl\Python\Data_Engineering\sdg_index_data.json"
-    COUNTRY_CSV = "all_countries.csv"
-    CSV_OUTPUT = r"C:\Users\NOC1\Desktop\sl\Python\Data_Engineering\sdg_recipients_cleaned.csv"
+    api_url = 'https://api.open.undp.org/api/sdg-index.json'
+    save_path = r"C:\Users\NOC1\Desktop\sl\Python\Data_Engineering\sdg_index_data.json"
+    country_csv_path = "all_countries.csv"
+    csv_save_path = r"C:\Users\NOC1\Desktop\sl\Python\Data_Engineering\sdg_recipients_cleaned.csv"
 
     # Extract
-    raw_data = extract_sdg_data(API_URL, JSON_PATH)
+    raw_data = extract_sdg_data(api_url, save_path)
     
     # Transform
-    cleaned_df = transform_sdg_data(raw_data, COUNTRY_CSV)
+    cleaned = transform_sdg_data(raw_data, country_csv_path)
     
     # Load
-    load_to_csv(cleaned_df, CSV_OUTPUT)
+    load_to_csv(cleaned, csv_save_path)
     
     # Optional Analysis
-    analyze_data(cleaned_df)
+    analyze_data(cleaned)
